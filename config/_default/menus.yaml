@@ -5,20 +5,64 @@
 
 main:
   - name: Home
+    identifier: home
     url: '#home'
     weight: 10
-  - name: Publications
-    url: 'publications'
-    weight: 20
+  # - name: Publications
+  #   url: 'publications'
+  #   weight: 20
   - name: Teaching
-    url: 'teaching'
+    identifier: teaching
+  #  url: 'teaching'
     weight: 30
+  - name: DCC 129 - FTC (2024/1)
+    identifier: ftc
+    url: 'courses/ftc'
+    parent: teaching
+    weight: 10
+  - name: DCC 831/030/049 - Info. Theory (2024/1)
+    identifier: info-theory
+    url: 'courses/info-theory'
+    parent: teaching
+    weight: 20
+  - name: DCC 836 - ILC (2022/1)
+    identifier: ilc
+    url: 'courses/ilc'
+    parent: teaching
+    weight: 30
+  - name: DCC 831/030/049 - QIF (2022/3)
+    identifier: qif
+    url: 'courses/qif'
+    parent: teaching
+    weight: 40
+  - name: FAQ - Teaching & Grading
+    identifier: faq-teaching-grading-1
+    url: 'faqs/teaching-grading'
+    parent: teaching
+    weight: 50
   - name: Awards and honors
+    identifier: awards
     url: 'awards'
     weight: 40
   - name: About
-    url: 'about'
+    identifier: about
+  #  url: 'about'
     weight: 50
+  - name: A little more about myself
+    identifier: about-more
+    url: 'about'
+    parent: about
+    weight: 10
+  - name: FAQ - Research & Science
+    identifier: faq-research-science
+    url: 'faqs/research-science'
+    parent: about
+    weight: 20
+  - name: FAQ - Teaching & Grading
+    identifier: faq-teaching-grading-2
+    url: 'faqs/teaching-grading'
+    parent: about
+    weight: 30
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
