@@ -17,7 +17,6 @@ header:
 
 <div style="text-align: justify"> 
 
-
 #### System Description
 
 BHBusca was a software developed by a group of High School students in the year 2000 to help people find the best way to move by public transportation through the city of Belo Horizonte, Brazil. Given a source and a destination, the system computed the (combination of) bus lines one should take, together with  best stops to get on and off the buses. The system was used in the year 2000 by the [Belo Horizonte Transportation Bureau (BHTrans)](https://prefeitura.pbh.gov.br/bhtrans) in Venda Nova, a bus hub visited by more than 60,000 users a day at the time. BHBusca was the first software of this kind used by a governmental institution in Brazil.
