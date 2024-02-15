@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-date: 2022-10-24
+date: 2024-02-15
 type: landing
 
 sections:
@@ -37,7 +37,7 @@ sections:
         gradient_start: '#004ba0'
         text_color_light: true
   - block: about.biography
-    id: about
+    id: home
     content:
       title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
