@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Mário S. Alvim's webpage # Website name
+title: Mário S. Alvim # Website name
 baseURL: 'https://www.dcc.ufmg.br/~msalvim' # Website URL
 
 ############################
