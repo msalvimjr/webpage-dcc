@@ -16,7 +16,7 @@ main:
     url: 'publication'
     parent: research
     weight: 10
-  - name: The Topete research group
+  - name: The Topete group
     identifier: topete
     url: 'https://topete.science/'
     parent: research
