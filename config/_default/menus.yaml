@@ -17,22 +17,22 @@ main:
     weight: 30
   - name: DCC 129 - FTC (2024/1)
     identifier: ftc
-    url: 'courses/ftc'
+    url: 'teaching/ftc'
     parent: teaching
     weight: 10
   - name: DCC 831/030/049 - Info. Theory (2024/1)
     identifier: info-theory
-    url: 'courses/info-theory'
+    url: 'teaching/info-theory'
     parent: teaching
     weight: 20
   - name: DCC 836 - ILC (2022/1)
     identifier: ilc
-    url: 'courses/ilc'
+    url: 'teaching/ilc'
     parent: teaching
     weight: 30
   - name: DCC 831/030/049 - QIF (2022/3)
     identifier: qif
-    url: 'courses/qif'
+    url: 'teaching/qif'
     parent: teaching
     weight: 40
   - name: FAQ - Teaching & Grading

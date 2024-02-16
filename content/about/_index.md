@@ -32,5 +32,3 @@ I obtained a MSc. degree in Computer Science from UFMG in 2008, with focus on Pr
 </div>
 
 ![](images/journey.jpg "Santuário do Caraça, MG")
-
-

@@ -1,5 +1,5 @@
 ---
-title: 'BHBusca'
+title: BHBusca
 cms_exclude: true
 
 # View.

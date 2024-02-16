@@ -229,6 +229,21 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: Media & supporting material  
+  #     subtitle: (in Portuguese)
+  #     items:  
+  #     # <div style="text-align: justify"> 
+  #     - text: Quando criptografia não garante segurança (When cryptography is not enough to ensure security)
+  #     # Summer School in Computer Science, DCC-UFMG. [Talk – Part 1/2] [Talk – Part 2/2]
+  #     # Uma abordagem Bayesiana sobre o método científico e a navalha de Occam (A Bayesian interpretation of the scientific method and of Occam's razor)
+  #     # Summer School in Computer Science, DCC-UFMG. [Talk]
+  #     # O que é "teoria" em ciência da computação? (What’s "theory" in computer science?)
+  #     # Introduction to Computer Science, Computational Mathematics, and Information Systems. [Talk]
+  #     # </div>
+  #   design:
+  #     columns: '1'
   - block: contact
     id: contact
     content:

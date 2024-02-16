@@ -1,6 +1,7 @@
 ---
-title: 'Awards and honors'
+title: Awards & honors
 cms_exclude: true
+type: landing
 
 # View.
 #   1 = List
@@ -19,7 +20,7 @@ header:
 
   </br>
 
-- **Recipient of 9th Google Latin America Research Awards (2022), with the PhD. student Gabriel Henrique Nunes.**
+- **Recipient of 9th Google Latin America Research Awards, with the PhD. student Gabriel Henrique Nunes, 2022**
   [Gabriel Henrique Nunes](https://nunesgh.com/en/) is a PhD. student is in co-tulle between UFMG, under my supervision, and Macquarie University, under supervision of Prof. Annabelle McIver. The [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/) refers to the project  *“A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”*.
 
   </br>
@@ -35,6 +36,6 @@ header:
   </br>
 
 - **First place in CEFET-MG’s XVIII META competition, 2000.**
-  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](bhbusca), for which we receive the first prize in the XVIII Mostra Específica de Trabalhos e Aplicações (META).  
+  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](../bhbusca), for which we receive the first prize in the XVIII Mostra Específica de Trabalhos e Aplicações (META).  
 
 </div>

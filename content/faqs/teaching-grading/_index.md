@@ -17,7 +17,7 @@ header:
 
 <div style="text-align: justify"> 
 
-### Teaching principles
+### Mário's teaching principles
 
 </br>
 
@@ -130,7 +130,7 @@ If you do not qualify to take the make-up exam but still want to improve your fi
 **Answer:** In order to the get 0.1 marks you need/want at the end of the semester, you have two options:
 
 1. Take the special exam, if you qualify, and get the grade you need/want.
-1. Build a time machine, go back in time, and do better during the semester. ([But it is uncertain whether this option is really viable.](https://en.wikipedia.org/wiki/Time_travel))
+1. Build a time machine, go back in time, and do better during the semester. (But since [it's uncertain whether this option is viable in the universe we live in](https://en.wikipedia.org/wiki/Time_travel), it's probably prudent not to count on it.)
 
 Note, however, that the following are **NOT** available options:
 
