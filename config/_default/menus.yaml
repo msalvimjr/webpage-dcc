@@ -8,8 +8,18 @@ main:
     identifier: home
     url: '#home'
     weight: 10
+  - name: Research & Publications
+    identifier: research
+    weight: 20
   - name: Publications
+    identifier: publication
     url: 'publication'
+    parent: research
+    weight: 10
+  - name: The Topete research group
+    identifier: topete
+    url: 'https://topete.science/'
+    parent: research
     weight: 20
   - name: Teaching
     identifier: teaching
