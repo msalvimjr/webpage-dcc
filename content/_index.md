@@ -229,21 +229,30 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
-  # - block: markdown
-  #   content:
-  #     title: Media & supporting material  
-  #     subtitle: (in Portuguese)
-  #     items:  
-  #     # <div style="text-align: justify"> 
-  #     - text: Quando criptografia não garante segurança (When cryptography is not enough to ensure security)
-  #     # Summer School in Computer Science, DCC-UFMG. [Talk – Part 1/2] [Talk – Part 2/2]
-  #     # Uma abordagem Bayesiana sobre o método científico e a navalha de Occam (A Bayesian interpretation of the scientific method and of Occam's razor)
-  #     # Summer School in Computer Science, DCC-UFMG. [Talk]
-  #     # O que é "teoria" em ciência da computação? (What’s "theory" in computer science?)
-  #     # Introduction to Computer Science, Computational Mathematics, and Information Systems. [Talk]
-  #     # </div>
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: News
+      subtitle: ''
+      text: '
+      
+      - In 2024 I am back to UFMG from a sabbatical year as a visiting researcher/engineer to [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), France, to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/).     
+
+      </br></br>
+
+      - Our research has been used to evaluate the privacy in the microdata of The Official Brazilian Educational Censuses, and is being used by [INEP](https://www.gov.br/inep/) (The Anísio Teixeira National Institute of Educational Studies and Research (INEP)) to [review their data-publishing policies](https://www.gov.br/inep/pt-br/assuntos/noticias/institucional/nota-de-esclarecimento-divulgacao-dos-microdados). (A summary of our methodology and results has been [published in English](https://petsymposium.org/popets/2022/popets-2022-0114.php).) The project has been renewed for the year of 2024.
+
+      </br></br>
+
+      - Our PhD. candidate [Gabriel Henrique Nunes](https://nunesgh.com/en/), in co-tutelle with [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) from Macquarie University, is one of the recipients of the [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/), with the project “A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”.
+
+      </br></br>
+
+      - Our [Topete](https://topete.science) research group is active!
+
+      </br></br>
+
+      - Our book ["The Science of Quantitative Information Flow"](https://www.springer.com/us/book/9783319961293) has been published! 
+      '
   - block: contact
     id: contact
     content:
