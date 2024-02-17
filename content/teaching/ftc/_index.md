@@ -23,7 +23,7 @@ header:
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 
-- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(atualizado em 2024-02-20)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2024-1%20-%20Cronograma.pdf)
+- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(atualizado em 2024-02-23)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2024-1%20-%20Cronograma.pdf)
 
 <!-- - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
@@ -34,7 +34,7 @@ header:
 #### Material da disciplina
 
 | Conteúdo | Slides de aula | Listas de exercícios |
-| --- | --- | --- | 
+| --- | :---: | :---: | 
 | 0.0 - Introdução | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_Introducao%5bstill%5d.pdf) |[---] | 
 | 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.1_TecnicasDemonstracao-Enumerabilidade%5bquestoes%5d.pdf) | 
 | 0.2 - Linguagens Formais e Problemas de Decisão | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.2_LingFormais-PDs%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.2_LingFormais-PDs%5bquestoes%5d.pdf) | 

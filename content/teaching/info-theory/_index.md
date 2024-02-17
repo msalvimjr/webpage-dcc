@@ -1,5 +1,5 @@
 ---
-title: DCC831/030/049 – Information Theory (2024/1)
+title: DCC 831/030/049 – Information Theory (2024/1)
 cms_exclude: true
 
 # View.
@@ -23,7 +23,7 @@ header:
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L00_Syllabus%5bstill%5d.pdf)
 
-- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-02-20)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
+- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-02-23)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
 
 <!-- - <span style="color:red">**Seminars:**</span>
     - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf)
@@ -34,7 +34,7 @@ header:
 #### Supporting Material
 
 | Unit | Slides | Problem sets |
-| --- | --- | --- | 
+| --- | :---: | :---: | 
 | 01B - Discrete Probability (Supplemental material in Portuguese). | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L01B_DiscreteProbability%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset01_DiscreteProbability%5bquestions%5d.pdf) |
 | 01A - Introduction to Information Theory. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L01A_Introduction%5bstill%5d.pdf) | [---] |
 | 02 - Probability, Entropy, and Inference. More about Inference. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L02_Probabiliy_Entropy_Inference_MoreAboutInference%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset02_ProbabilityEntropyInference_MoreAboutInference%5bquestions%5d.pdf) |
@@ -43,8 +43,8 @@ header:
 | 05 - Stream codes. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L05_StreamCodes%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset05_StreamCodes%5bquestions%5d.pdf) |
 | 06 - Dependent Random Variables. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L06_DependentRandomVariables%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset06_DependentRandomVariables%5bquestions%5d.pdf) |
 | 07 - Communication Over a Noisy Channel. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L07_CommunicationOverANoisyChannel%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset07_CommunicationOverANoisyChannel%5bquestions%5d.pdf) |
-| 08 - Decision Theory. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L08_DecisionTheory%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset08_DecisionTheory%5bquestions%5d.pdf) |
-| 09 - Kolmogorov Complexity and Universal Probability. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L09_KolmogorovComplexity_UniversalProbability%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset09_KolmogorovComplexity_UniversalProbability%5bquestions%5d.pdf) |
+| 08 - Kolmogorov Complexity and Universal Probability. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L08_KolmogorovComplexity_UniversalProbability%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset08_KolmogorovComplexity_UniversalProbability%5bquestions%5d.pdf) |
+| 09 - Decision Theory. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L09_DecisionTheory%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset09_DecisionTheory%5bquestions%5d.pdf) |
 | 10 - Advanced Information Measures. | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L10_AdvancedInformationMeasures%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/problemset10_AdvancedInformationMeasures%5bquestions%5d.pdf)
 
 #### Supplemental Material

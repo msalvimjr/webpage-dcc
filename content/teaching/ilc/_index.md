@@ -1,5 +1,5 @@
 ---
-title: DCC638 – Introdução à Lógica Computacional (2022/1)
+title: DCC 638 – Introdução à Lógica Computacional (2022/1)
 cms_exclude: true
 
 # View.
@@ -34,7 +34,7 @@ header:
 #### Material da disciplina
 
 | Conteúdo | Slides de aula | Listas de exercícios |
-| --- | --- | --- | 
+| --- | :---: | :---: | 
 | Aula 0.1 - Introdução ao Curso | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.1_Introducao%5bstill%5d.pdf) | Lista 00 - Desafios e Resolução de Problemas [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista00_Desafios-ResolucaoProblemas%5bquestoes%5d.pdf) | 
 | Aula 1.1 - Os Fundamentos: Lógica Proposicional | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.1_LogicaProposicional%5bstill%5d.pdf) | Lista 01 - Lógica Proposicional [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista01_LogicaProposicional%5bquestoes%5d.pdf) | 
 | | | Lista 02 - Equivalências Proposicionais [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista02_EquivalenciasProposicionais%5bquestoes%5d.pdf) | 
