@@ -261,7 +261,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. 
       # Contact (add or remove contact options as necessary)
-      email: msalvim.dcc.ufmg.br
+      email: msalvim@dcc.ufmg.br
       phone: +55 (31) 3409-5845 / 3409-5860
       # appointment_url: 'https://calendly.com'
       address:
