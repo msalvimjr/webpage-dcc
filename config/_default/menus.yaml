@@ -21,10 +21,18 @@ main:
     url: 'https://topete.science/'
     parent: research
     weight: 20
+  - name: Students
+    identifier: students
+    url: 'students'
+    weight: 30
+  - name: Service
+    identifier: service
+    url: 'service'
+    weight: 40  
   - name: Teaching
     identifier: teaching
   #  url: 'teaching'
-    weight: 30
+    weight: 50
   - name: DCC 129 - FTC (2024/1)
     identifier: ftc
     url: 'teaching/ftc'
@@ -50,18 +58,14 @@ main:
     url: 'faqs/teaching-grading'
     parent: teaching
     weight: 50
-  - name: Service
-    identifier: service
-    url: 'service'
-    weight: 40
   - name: Awards and honors
     identifier: awards
     url: 'awards'
-    weight: 50
+    weight: 60
   - name: About
     identifier: about
   #  url: 'about'
-    weight: 60
+    weight: 70
   - name: A little more about myself
     identifier: about-more
     url: 'about'
