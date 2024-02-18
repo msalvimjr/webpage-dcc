@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-I am a professor of computer science at UFMG. My research interests include formal methods for responsible computing, with special focus on the application of the framework of quantitative information flow (and some information--, decision--, and game-theory) to problems of privacy, security, transparency, fairness, and polarization.
+I am a professor of computer science at UFMG. My research interests include formal methods for responsible computing, with a special focus on the application of the framework of quantitative information flow (and some information–, decision–, and game-theory) to problems of privacy, security, transparency, fairness, and polarization.
 {style="text-align: justify;"}

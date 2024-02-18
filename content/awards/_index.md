@@ -20,8 +20,8 @@ header:
 
   </br>
 
-- **Recipient of 9th Google Latin America Research Awards, with the PhD. student Gabriel Henrique Nunes, 2022**
-  [Gabriel Henrique Nunes](https://nunesgh.com/en/) is a PhD. student is in co-tulle between UFMG, under my supervision, and Macquarie University, under supervision of Prof. Annabelle McIver. The [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/) refers to the project  *“A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”*.
+- **Recipient of the 9th Google Latin America Research Awards, with the Ph.D. student Gabriel Henrique Nunes, 2022.**
+  [Gabriel Henrique Nunes](https://nunesgh.com/en/) is a Ph.D. student in co-tulle between UFMG, under my supervision, and Macquarie University, under the supervision of Prof. Annabelle McIver. The [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/) refers to the project  *“A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”*.
 
   </br>
 
@@ -31,11 +31,11 @@ header:
   </br>
 
 - **Best thesis in Computer Science, and finalist of the Prix de Thèse Paris Tech, 2011.**
-  My PhD dissertation, Formal approaches to information hiding: An analysis of interactive systems, statistical disclosure control, and refinement of specifications (availlable here) was a finalist of the [Prix de Thèse ParisTech](https://www.espci.psl.eu/?page=article-print&id_article=4022) 2011, granted by the [Paris Institute of Technology (ParisTech)](https://paristech.fr/), representing the best thesis in Computer Science among the 632 thesis defended that year of 2011 in 12 of the most prestigious Grande Écoles in France.
+  My Ph.D. dissertation, [*Formal approaches to information hiding: An analysis of interactive systems, statistical disclosure control, and refinement of specifications*](https://theses.hal.science/tel-00639948v3) was a finalist of the [Prix de Thèse ParisTech](https://www.espci.psl.eu/?page=article-print&id_article=4022) 2011, granted by the [Paris Institute of Technology (ParisTech)](https://paristech.fr/), representing the best thesis in Computer Science among the 632 theses defended that year of 2011 in 12 of the most prestigious Grande Écoles in France.
 
   </br>
 
 - **First place in CEFET-MG’s XVIII META competition, 2000.**
-  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](../bhbusca), for which we receive the first prize in the XVIII Mostra Específica de Trabalhos e Aplicações (META).  
+  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](../bhbusca), for which we received the first prize in the XVIII Mostra Específica de Trabalhos e Aplicações (META).  
 
 </div>

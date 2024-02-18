@@ -19,7 +19,7 @@ header:
 
 #### General Information
 
-- **Time and place:** Tuesdays and Thursdays, 2:55pm-4:35pm, room TBA.
+- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, room TBA.
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)
 
