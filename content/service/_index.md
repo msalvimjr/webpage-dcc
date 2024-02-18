@@ -39,7 +39,6 @@ header:
 - Program committee member of the 8th International Conference on Information Systems Security and Privacy (ICISSP 2022)
 - Program committee member of the XXII Brazilian Symposium on Information and Computational Systems Security (SBSeg 2022)
 - Program committee of the VI Encontro de Teoria da Computação (ETC 2021)
-- Jury member of the 6th CNIL-Inria Privacy Award
 - Jury member of the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies 2022
 
 #### 2021
