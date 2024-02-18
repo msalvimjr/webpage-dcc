@@ -18,7 +18,7 @@ header:
 <div style="text-align: justify"> 
 
 #### 2024
-- Program committee member of the 31th ACM Conference on Computer and Communications Security (CCS 2024) -- Privacy and Anonymity track
+- Program committee member of the 31st ACM Conference on Computer and Communications Security (CCS 2024) -- Privacy and Anonymity track
 - Program committee member of the 33rd USENIX Security Symposium (USENIX 2024)
 - Program committee member of the 37th IEEE Computer Security Foundations Symposium (CSF 2024)
 - Program committee member of the 24th Privacy Enhancing Technologies Symposium (PETS 2024)
@@ -38,14 +38,14 @@ header:
 - Program committee member of the 35th IEEE Computer Security Foundations Symposium (CSF 2022)
 - Program committee member of the 8th International Conference on Information Systems Security and Privacy (ICISSP 2022)
 - Program committee member of the XXII Brazilian Symposium on Information and Computational Systems Security (SBSeg 2022)
-- Program commitee of the VI Encontro de Teoria da Computação (ETC 2021)
+- Program committee of the VI Encontro de Teoria da Computação (ETC 2021)
 - Jury member of the 6th CNIL-Inria Privacy Award
 - Jury member of the Caspar Bowden Award for Outstanding Research in Privacy Enhancing Technologies 2022
 
 #### 2021
 - Program committee member of the 34th IEEE Computer Security Foundations Symposium (CSF 2021)
 - Program committee member of the 21st Privacy Enhancing Technologies Symposium (PETs 2021)	2021
-- Program commmitee member of the 7th International Conference on Information Systems Security and Privacy (ICISSP 2021)
+- Program committee member of the 7th International Conference on Information Systems Security and Privacy (ICISSP 2021)
 - Program committee member of the XXI Brazilian Symposium on Information and Computational Systems Security (SBSeg 2021)
 
 #### 2020
@@ -84,7 +84,7 @@ header:
 
 #### 2015
 - Program committee member of the 8th Interaction and Concurrency Experience (ICE 2015)
-- Program committee member of the 1st nternational Conference on Information Systems Security and Privacy (ICISSP 2015)
+- Program committee member of the 1st International Conference on Information Systems Security and Privacy (ICISSP 2015)
 - Program committee member of the XV Brazilian Symposium on Information and Computational Systems Security (SBSeg 2015)
 
 #### 2014
