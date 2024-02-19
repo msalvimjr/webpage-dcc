@@ -18,9 +18,9 @@ header:
 <div style="text-align: justify"> 
 
 
-I am always keen to supervise highly motivated students in the broad area of formal methods for responsible computing, with a focus on security, privacy, fairness, and transparency.
+I am always keen to supervise motivated students in the area of formal methods for responsible computing, with a focus on security, privacy, fairness, and transparency.
 
-Feel free to [contact me](../#contact) about current opportunities and to discuss topics of mutual interest.
+Feel free to [contact me](../#contact) about opportunities and to discuss topics of mutual interest.
 
 ---
 
