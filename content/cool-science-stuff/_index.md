@@ -69,7 +69,7 @@ header:
 
 ### Some of my talks for science communication (in Portuguese)
 
-(Ok, it's probably a bit pretensious of me to have this list under the "cool stuff" label, but I couldn't find any other place for it. Please be forgiving...)
+(Ok, it's probably a bit pretensious of me to have this list under the "cool stuff" label, but I couldn't find any better place for it. Please be forgiving...)
 
 - [Quando criptografia não garante segurança](https://youtu.be/ki8YNZypjAc)
       *(When cryptography is not enough to ensure security)*
