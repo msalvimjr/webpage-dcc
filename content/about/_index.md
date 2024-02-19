@@ -17,11 +17,10 @@ header:
 
 <div style="text-align: justify"> 
 
-I have been an assistant professor at the [Department of Computer Science (DCC)](http://www.dcc.ufmg.br/) of the [Federal University of Minas Gerais (UFMG)](http://www.ufmg.br) since September 2013. DCC is one of the three CS departments in the country [ranked](http://trienal.capes.gov.br/?page_id=100) as a center of excellence by the Brazilian Government.
+I have been an assistant professor at the [Department of Computer Science (DCC)](http://www.dcc.ufmg.br/) of the [Federal University of Minas Gerais (UFMG)](http://www.ufmg.br) since September 2013 (tenured in 2016). DCC is one of the three CS departments in the country [ranked](http://trienal.capes.gov.br/?page_id=100) as a center of excellence by the Brazilian Government.
 <!-- {style="text-align: justify;"} -->
 
-For the whole year of 2023, I was a visiting scholar/engineer to [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre) to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) on formal methods for responsible computing.
-In the year 2019, I was a visiting professor for 5 weeks at the [School of Computing](https://researchers.mq.edu.au/en/organisations/school-of-computing) of [Macquarie University](https://researchers.mq.edu.au/en/) to collaborate with the team of [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) on the same topic.
+For the whole year of 2023, I was a visiting scholar/engineer at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre) to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) on formal methods for responsible computing. I was a visiting professor for 5 weeks in 2019 at the [School of Computing](https://researchers.mq.edu.au/en/organisations/school-of-computing) of [Macquarie University](https://researchers.mq.edu.au/en/) to collaborate with the team of [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) on the same topics.
 <!-- {style="text-align: justify;"} -->
 
 From January 2012 until September 2013 I was a post-doctoral researcher at the [Department of Mathematics](https://www.math.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) under the supervision of [Prof. Andre Scedrov](https://www.cis.upenn.edu/~scedrov/), with funds from the Stanford Science of Cyber-security MURI. During this post-doc, I had the pleasure of maintaining a close collaboration with [Prof. Fred B. Schneider](http://www.cs.cornell.edu/fbs/) from the [Department of Computer Science](https://www.cs.cornell.edu/) at [Cornell University](https://www.cornell.edu/).
