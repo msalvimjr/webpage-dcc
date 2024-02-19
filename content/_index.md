@@ -252,7 +252,18 @@ sections:
       </br></br>
 
       - Our book ["The Science of Quantitative Information Flow"](https://www.springer.com/us/book/9783319961293) has been published! 
+
+      </br></br>
+
+      - Some science-related stuff that I find cool [can be found here](cool-science-stuff).
       '
+  # - block: markdown
+  #   content:
+  #     title: Some cool stuff
+  #     subtitle: ''
+  #     text: '
+  #       - Some science-related stuff that I find cool [can be found here](cool-science-stuff).
+  #     '
   - block: contact
     id: contact
     content:

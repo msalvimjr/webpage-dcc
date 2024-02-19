@@ -76,15 +76,20 @@ main:
     url: 'faqs/teaching-grading'
     parent: about
     weight: 20
+  - name: 'Some cool science-related stuff'
+    identifier: cool-science-stuff
+    url: 'cool-science-stuff'
+    parent: about
+    weight: 30
   - name: 'A little about myself'
     identifier: about-more
     url: 'about'
     parent: about
-    weight: 30
+    weight: 40
   - name: 'Contact'
     url: '#contact'
     parent: about
-    weight: 40
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
