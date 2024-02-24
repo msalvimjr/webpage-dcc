@@ -42,7 +42,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [The Eerie Silence: Renewing Our Search for Alien Intelligence](https://www.harpercollins.com/products/the-eerie-silence-paul-davies?variant=39936005341218), by Paul Davies: *"In this provocative book Davies refocuses the search, challenging existing ideas of what form an alien intelligence might take, how it might try to communicate with us, and how we should respond if it does."*
 
-### Book that can expand your horizons if you want to dive a bit in more technical details...
+### Books that can expand your horizons if you want to dive a bit into more technical details...
 
 - [Probability Theory: The Logic of Science](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99), by E. T. Jaynes: *"The standard rules of probability can be interpreted as uniquely valid principles in logic. In this book, E. T. Jaynes dispels the imaginary distinction between 'probability theory' and 'statistical inference', leaving a logical unity and simplicity, which provides greater technical power and flexibility in applications."*
 
@@ -50,7 +50,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [An Introduction to Functional Programming Through Lambda Calculus](https://www.goodreads.com/en/book/show/12169041), by Greg Michaelson: *"This well-respected text offers an accessible introduction to functional programming concepts and techniques for students of mathematics and computer science."*
 
-### Youtube channels on Science, Maths, Philosophy, and other cool stuff
+### YouTube channels on Science, Maths, Philosophy, and other cool stuff
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt): *"Animation videos explaining things with optimistic nihilism since 12,013."*
 
@@ -72,7 +72,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 - [Canal do Pirulla](https://www.youtube.com/@Pirulla25/videos) (in Portuguese):
   *"Canal voltado às coisas que mais me interessam: ciência, religião e evolução. Este canal faz parte da iniciativa Science Vlogs Brasil, um selo de qualidade colaborativo que reúne os divulgadores de ciência mais confiáveis do Youtube Brasil."*
 
-### Websites from which to read an article a day (or every now and then)
+### Websites from which to read an article a day (or now and then)
 
 - [Wait but why](https://waitbutwhy.com/): *"We want you to think it’s a real website and when you forward the link to someone we don’t want you to say, “Check out this guy’s blog” cause then it seems like it’s just this guy writing and it’s just a blog. We want you to say, “Check out this site” cause then we seem like a bigger deal and it seems like a legit thing. Okay?"*
 
@@ -80,12 +80,12 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [LessWrong](https://www.lesswrong.com/):  *"LessWrong is an online forum and community dedicated to improving human reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. Each day, we aim to be less wrong about the world than the day before."*
 
-- [Your logical falacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their **awesome poster**!)
+- [Your logical fallacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their **awesome poster**!)
 
 
 ###  Some questions that have kept me awake at night (seriously)
 
-- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder thant it looks, and if we get it wrong in the first try, humankind could be doomed. No, seriously!)
+- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder than it looks, and if we get it wrong on the first try, humankind could be doomed. No, seriously!)
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
 
@@ -94,7 +94,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 ### Some of my talks for science communication (in Portuguese)
 
-(Ok, it's probably a bit pretensious of me to have this list under the "cool stuff" label, but I couldn't find any better place for it. Please be forgiving...)
+(Ok, it's probably a bit pretentious of me to have this list under the "cool stuff" label, but I couldn't find any better place for it. Please be forgiving...)
 
 - [Quando criptografia não garante segurança](https://youtu.be/ki8YNZypjAc)
       *(When cryptography is not enough to ensure security)*
