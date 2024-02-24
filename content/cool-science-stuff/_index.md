@@ -38,6 +38,8 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland), by Edwin A. Abbott: *"This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years."*
 
+- [Who Am I? And If So How Many? A Journey Through Your Mind](https://www.goodreads.com/book/show/11350713-who-am-i-and-if-so-how-many-a-journey-through-your-mind), by Richard David Precht: *"Drawing on neuroscience, psychology, history, and even pop culture, Richard David Precht deftly elucidates the questions at the heart of human What is truth? Does life have meaning? Why should I be good? And presents them in concise, witty, and engaging prose."*
+
 - [Freedom Evolves](https://www.penguinrandomhouse.com/books/288114/freedom-evolves-by-daniel-c-dennett/), by Daniel C. Dennett: *"Can there be freedom and free will in a deterministic world?"*
 
 - [The Eerie Silence: Renewing Our Search for Alien Intelligence](https://www.harpercollins.com/products/the-eerie-silence-paul-davies?variant=39936005341218), by Paul Davies: *"In this provocative book Davies refocuses the search, challenging existing ideas of what form an alien intelligence might take, how it might try to communicate with us, and how we should respond if it does."*
