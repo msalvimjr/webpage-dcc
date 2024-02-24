@@ -31,7 +31,7 @@ This is not all that I do, though. Take a look at my [Google Scholar profile](ht
 
 **Question:** *I am interested in participating in one of your scientific projects, at either the undergraduate or the graduate level. What should I do to get more information about that?*
 
-**Answer:** If you are interested in working on one of my scientific projects, please send me an e-mail so we can set a time to discuss the matter.
+**Answer:** If you are interested in working on one of my scientific projects, please send [contact me](../../#contact) so we can set a time to discuss the matter.
 
 </br>
 
@@ -47,7 +47,7 @@ This is not all that I do, though. Take a look at my [Google Scholar profile](ht
 
 **Question:** *I’m a Scorpio and my partner is a Pisces. What does that mean for our relationship?*
 
-**Answer:** Nothing. Astrology is pseudo-science.
+**Answer:** Nothing. Astrology is pseudoscience.
 
 </br>
 
