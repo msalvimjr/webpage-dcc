@@ -40,7 +40,7 @@ education:
     - course: PhD in Computer Science
       institution: École Polytechnique
       year: 2011
-    - course: MSc
+    - course: MSc in Computer Science
       institution: UFMG
       year: 2008
     - course: BSc in Computer Science
