@@ -17,6 +17,9 @@ header:
 
 <div style="text-align: justify"> 
 
+Here it is a list of some science-related stuff I find cool; items are presented in no particular order.
+**If you check on any item on this list, feel free to [contact me](../#contact) and let me know what you think of it!**
+
 ### Books on the popularization of CS, Math, Logics, and Science
 
 - [The Demon-Haunted World: Science as a Candle in the Dark](https://www.penguinrandomhouse.com/books/159731/the-demon-haunted-world-by-carl-sagan/), by Carl Sagan: *"How can we make intelligent decisions about our increasingly technology-driven lives if we don’t understand the difference between the myths of pseudoscience and the testable hypotheses of science?"*
