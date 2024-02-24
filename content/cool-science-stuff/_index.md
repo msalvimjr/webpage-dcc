@@ -18,7 +18,7 @@ header:
 <div style="text-align: justify"> 
 
 Here it is a list of some science-related stuff I find cool; items are presented in no particular order.
-**If you check on any item on this list, feel free to [contact me](../#contact) and let me know what you think of it!**
+**If you check on any item on this list, feel free to [contact me](../#contact) and let me know what you think!**
 
 ### Books on the popularization of CS, Math, Logics, and Science
 
