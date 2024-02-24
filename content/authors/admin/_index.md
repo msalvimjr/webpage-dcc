@@ -39,13 +39,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: École Polytechnique
-      year: 2011
+    #  year: 2011
     - course: MSc in Computer Science
       institution: UFMG
-      year: 2008
+    #  year: 2008
     - course: BSc in Computer Science
       institution: UFMG
-      year: 2006
+    #  year: 2006
 
 # # Skills
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
