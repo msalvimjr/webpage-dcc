@@ -25,6 +25,8 @@ header:
 - [Turing's Vision: The Birth of Computer Science](https://mitpress.mit.edu/9780262533515/turings-vision/), by Chris Bernhardt:
 *"Turing's fascinating and remarkable theory, which now forms the basis of computer science, explained for the general reader."*
 
+- [Thinking, Fast and Slow](https://us.macmillan.com/books/9780374533557/thinkingfastandslow), by Daniel Kahneman: *"In his mega bestseller, [...] Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think."*
+
 - [The Critical Thinker's Dictionary: Biases, Fallacies, and Illusions and What You Can Do About Them](https://www.goodreads.com/book/show/18935911-the-critical-thinker-s-dictionary), by Robert Carroll: *"The Critical Thinker’s Dictionary isn’t a collection of dry definitions, but a colorful, three-dimensional portrait of the major obstacles to critical thinking and what we can do to overcome them."*
 
 - [Zero: The Biography of a Dangerous Idea](https://www.univ.ox.ac.uk/book/zero-biography-dangerous-idea/), by Charles Seife: *"In Zero, Science Journalist Charles Seife follows this innocent-looking number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe, its rise and transcendence in the West, and its ever-present threat to modern physics."*
@@ -80,7 +82,7 @@ header:
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
 
-A particularly good book on this is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, named in the secion on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.
+  (A fascinating book on this topic is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, named in the secion on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.)
 
 
 ### Some of my talks for science communication (in Portuguese)
