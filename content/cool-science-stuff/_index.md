@@ -108,7 +108,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [O que é "teoria" em ciência da computação?](https://www.youtube.com/watch?v=TyAkbOvocnY)
       *(What’s "theory" in computer science?)*
-      Introduction to Computer Science, Computational Mathematics, and Information Systems. 
+      Introduction to Computer Science, Computational Mathematics, Data Science, and Information Systems. 
       <!-- [[Talk]](https://www.youtube.com/watch?v=TyAkbOvocnY) -->
 
 </div>
