@@ -60,7 +60,7 @@ header:
 
 - [Philosophy Tube](https://www.youtube.com/@PhilosophyTube): *"I'm giving away a philosophy degree for free!"*
 
-- [Canal do Pirulla](https://www.youtube.com/@Pirulla25/videos) (In Portuguese):
+- [Canal do Pirulla](https://www.youtube.com/@Pirulla25/videos) (in Portuguese):
   *"Canal voltado às coisas que mais me interessam: ciência, religião e evolução. Este canal faz parte da iniciativa Science Vlogs Brasil, um selo de qualidade colaborativo que reúne os divulgadores de ciência mais confiáveis do Youtube Brasil."*
 
 ### Websites from which to read an article a day (or every now and then)
