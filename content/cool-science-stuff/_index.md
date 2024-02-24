@@ -71,6 +71,8 @@ Here is a list of some science-related stuff I find cool; items are presented in
 
 - [Philosophy Tube](https://www.youtube.com/@PhilosophyTube): *"I'm giving away a philosophy degree for free!"*
 
+- [Crash Course Philosophy](https://www.youtube.com/watch?v=BNYJQaZUDrI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR): *" Hank hosts Crash Course Philosophy, produced in association with PBS Digital Studios."*
+
 - [Canal do Pirulla](https://www.youtube.com/@Pirulla25/videos) (in Portuguese):
   *"Canal voltado às coisas que mais me interessam: ciência, religião e evolução. Este canal faz parte da iniciativa Science Vlogs Brasil, um selo de qualidade colaborativo que reúne os divulgadores de ciência mais confiáveis do Youtube Brasil."*
 
