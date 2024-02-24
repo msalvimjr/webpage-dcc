@@ -19,19 +19,23 @@ header:
 
 ### Books on the popularization of CS, Math, Logics, and Science
 
-- [Logicomix: An Epic Search for Truth](https://www.logicomix.com/en/index.html), by Apostolos Doxiadis and Christos Papadimitriou:
-*"Covering a span of sixty years, the graphic novel Logicomix was inspired by the epic story of the quest for the Foundations of Mathematics."* 
-
 - [Turing's Vision: The Birth of Computer Science](https://mitpress.mit.edu/9780262533515/turings-vision/), by Chris Bernhardt:
 *"Turing's fascinating and remarkable theory, which now forms the basis of computer science, explained for the general reader."*
 
+- [The Demon-Haunted World: Science as a Candle in the Dark](https://www.penguinrandomhouse.com/books/159731/the-demon-haunted-world-by-carl-sagan/), by Carl Sagan: *"How can we make intelligent decisions about our increasingly technology-driven lives if we don’t understand the difference between the myths of pseudoscience and the testable hypotheses of science?"*
+
 - [Thinking, Fast and Slow](https://us.macmillan.com/books/9780374533557/thinkingfastandslow), by Daniel Kahneman: *"In his mega bestseller, [...] Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think."*
+
+- [Logicomix: An Epic Search for Truth](https://www.logicomix.com/en/index.html), by Apostolos Doxiadis and Christos Papadimitriou:
+*"Covering a span of sixty years, the graphic novel Logicomix was inspired by the epic story of the quest for the Foundations of Mathematics."* 
 
 - [The Critical Thinker's Dictionary: Biases, Fallacies, and Illusions and What You Can Do About Them](https://www.goodreads.com/book/show/18935911-the-critical-thinker-s-dictionary), by Robert Carroll: *"The Critical Thinker’s Dictionary isn’t a collection of dry definitions, but a colorful, three-dimensional portrait of the major obstacles to critical thinking and what we can do to overcome them."*
 
 - [Zero: The Biography of a Dangerous Idea](https://www.univ.ox.ac.uk/book/zero-biography-dangerous-idea/), by Charles Seife: *"In Zero, Science Journalist Charles Seife follows this innocent-looking number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe, its rise and transcendence in the West, and its ever-present threat to modern physics."*
 
 - [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland), by Edwin A. Abbott: *"This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years."*
+
+- [Freedom Evolves](https://www.penguinrandomhouse.com/books/288114/freedom-evolves-by-daniel-c-dennett/), by Daniel C. Dennett: *"Can there be freedom and free will in a deterministic world?"*
 
 - [The Eerie Silence: Renewing Our Search for Alien Intelligence](https://www.harpercollins.com/products/the-eerie-silence-paul-davies?variant=39936005341218), by Paul Davies: *"In this provocative book Davies refocuses the search, challenging existing ideas of what form an alien intelligence might take, how it might try to communicate with us, and how we should respond if it does."*
 
