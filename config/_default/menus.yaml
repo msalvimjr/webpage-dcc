@@ -71,19 +71,19 @@ main:
     url: 'about'
     parent: about
     weight: 10
-  - name: 'Some cool science-related stuff'
-    identifier: cool-science-stuff
-    url: 'cool-science-stuff'
-    parent: about
-    weight: 20
   - name: 'FAQ: Research & Science'
     identifier: faq-research-science
     url: 'faqs/research-science'
     parent: about
-    weight: 30
+    weight: 20
   - name: 'FAQ: Teaching & Grading'
     identifier: faq-teaching-grading-2
     url: 'faqs/teaching-grading'
+    parent: about
+    weight: 30
+  - name: 'Some cool science-related stuff'
+    identifier: cool-science-stuff
+    url: 'cool-science-stuff'
     parent: about
     weight: 40
   - name: 'Contact'
