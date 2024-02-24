@@ -53,7 +53,7 @@ main:
     url: 'teaching/qif'
     parent: teaching
     weight: 40
-  - name: FAQ - Teaching & Grading
+  - name: 'FAQ: Teaching & Grading'
     identifier: faq-teaching-grading-1
     url: 'faqs/teaching-grading'
     parent: teaching
@@ -71,14 +71,14 @@ main:
     url: 'about'
     parent: about
     weight: 10
-  - name: 'FAQ: Research & Science'
-    identifier: faq-research-science
-    url: 'faqs/research-science'
-    parent: about
-    weight: 20
   - name: 'FAQ: Teaching & Grading'
     identifier: faq-teaching-grading-2
     url: 'faqs/teaching-grading'
+    parent: about
+    weight: 20
+  - name: 'FAQ: Research & Science'
+    identifier: faq-research-science
+    url: 'faqs/research-science'
     parent: about
     weight: 30
   - name: 'Some cool science-related stuff'

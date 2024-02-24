@@ -47,10 +47,10 @@ header:
 | Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.2_DefinicoesRecursivasInducaoEstruturalAlgoritmosRecursivos%5bstill%5d.pdf) | Lista 09 - Definições Recursivas e Indução Estrutural, Algoritmos Recursivos [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista09_DefRecursivasIndEstruturalAlgRecursivos%5bquestoes%5d.pdf) |
 | Aula 4 - Lógica Booleana | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula4_AlgebraBooleana%5bstill%5d.pdf) | Losta 10 - Álgebra Booleana [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista10_AlgebraBooleana%5bquestoes%5d.pdf) |
 
-####  Link para vídeos das aulas no Youtube 
+####  Link para vídeos das aulas no YouTube 
 
  
-[Playlist do Youtube](https://www.youtube.com/playlist?list=PLMfK2lhtmT7G52lLlu8C97IQgJhYlZ3lL), gravada durante a pandemia em 2020/2.
+[Playlist do YouTube](https://www.youtube.com/playlist?list=PLMfK2lhtmT7G52lLlu8C97IQgJhYlZ3lL), gravada durante a pandemia em 2020/2.
 
 
 </div>

@@ -52,7 +52,7 @@ Here is a list of some science-related stuff I find cool; items are presented in
 
 - [An Introduction to Functional Programming Through Lambda Calculus](https://www.goodreads.com/en/book/show/12169041), by Greg Michaelson: *"This well-respected text offers an accessible introduction to functional programming concepts and techniques for students of mathematics and computer science."*
 
-### YouTube channels on Science, Maths, Philosophy, and other cool stuff
+### YouTube channels on Science, Math, Philosophy, and other cool stuff
 
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt): *"Animation videos explaining things with optimistic nihilism since 12,013."*
 

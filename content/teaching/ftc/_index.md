@@ -46,10 +46,10 @@ header:
 | 4 - Decidibilidade | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula4_Decidibilidade%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista4_Decidibilidade%5bquestoes%5d.pdf) | 
 | 5 - Redutibilidade | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula5_Redutibilidade%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista5_Redutibilidade%5bquestoes%5d.pdf) |
 
-####  Link para vídeos das aulas no Youtube
+####  Link para vídeos das aulas no YouTube
 
  
-[Playlist do Youtube](https://www.youtube.com/playlist?list=PLthT0cpFNWk_FMiKxsQQ9S8m_JmsA7r-L), gravada durante a pandemia em 2021/2.
+[Playlist do YouTube](https://www.youtube.com/playlist?list=PLthT0cpFNWk_FMiKxsQQ9S8m_JmsA7r-L), gravada durante a pandemia em 2021/2.
 
 
 </div>

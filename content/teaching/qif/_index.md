@@ -49,9 +49,9 @@ header:
 | 11 - Axiomatics | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture11_Chap11-Axiomatics%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetH_Chap11-18%5bquestions%5d.pdf) |
 | 12 - Applications: The Crowds protocol | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture12_Chap18-TheCrowdsProtocol%5bstill%5d.pdf) | [Same as previous] |
 
-####  Link for lectures on Youtube
+####  Link for lectures on YouTube
 
  
-[Youtube playlist](https://www.youtube.com/playlist?list=PLaZL0hVGCZkF7N5_RoC4vETrImPVj0jET), recorded during the pandemic  in 2021/2.
+[YouTube playlist](https://www.youtube.com/playlist?list=PLaZL0hVGCZkF7N5_RoC4vETrImPVj0jET), recorded during the pandemic  in 2021/2.
 
 </div>
