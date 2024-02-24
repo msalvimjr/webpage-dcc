@@ -17,7 +17,7 @@ header:
 
 <div style="text-align: justify"> 
 
-Here it is a list of some science-related stuff I find cool; items are presented in no particular order.
+Here is a list of some science-related stuff I find cool; items are presented in no particular order.
 **If you check on any item on this list, feel free to [contact me](../#contact) and let me know what you think!**
 
 ### Books on the popularization of CS, Math, Logics, and Science
@@ -87,7 +87,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 ###  Some questions that have kept me awake at night (seriously)
 
-- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder than it looks, and if we get it wrong on' the first try, humankind could be doomed. No, seriously!)
+- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder than it looks, and if we get it wrong on the first try, humankind could be doomed. No, seriously!)
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
 
