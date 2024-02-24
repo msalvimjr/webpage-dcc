@@ -34,9 +34,9 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [The Critical Thinker's Dictionary: Biases, Fallacies, and Illusions and What You Can Do About Them](https://www.goodreads.com/book/show/18935911-the-critical-thinker-s-dictionary), by Robert Carroll: *"The Critical Thinker’s Dictionary isn’t a collection of dry definitions, but a colorful, three-dimensional portrait of the major obstacles to critical thinking and what we can do to overcome them."*
 
-- [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland), by Edwin A. Abbott: *"This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years."*
-
 - [Zero: The Biography of a Dangerous Idea](https://www.univ.ox.ac.uk/book/zero-biography-dangerous-idea/), by Charles Seife: *"In Zero, Science Journalist Charles Seife follows this innocent-looking number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe, its rise and transcendence in the West, and its ever-present threat to modern physics."*
+
+- [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland), by Edwin A. Abbott: *"This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years."*
 
 - [Freedom Evolves](https://www.penguinrandomhouse.com/books/288114/freedom-evolves-by-daniel-c-dennett/), by Daniel C. Dennett: *"Can there be freedom and free will in a deterministic world?"*
 
