@@ -55,7 +55,7 @@ header:
 - [Numberphile](https://www.youtube.com/@numberphile): 
   *"Videos about numbers and mathematics. Videos by Brady Haran since 2011."*
 
-- [Computerphile](https://www.youtube.com/@computerphile)
+- [Computerphile](https://www.youtube.com/@computerphile):
   *"Videos all about computers and computer stuff. Sister channel of Numberphile."*
 
 - [Philosophy Tube](https://www.youtube.com/@PhilosophyTube): *"I'm giving away a philosophy degree for free!"*
