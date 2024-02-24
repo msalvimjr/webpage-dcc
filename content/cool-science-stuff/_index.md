@@ -77,7 +77,7 @@ header:
 
 - [LessWrong](https://www.lesswrong.com/):  *"LessWrong is an online forum and community dedicated to improving human reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. Each day, we aim to be less wrong about the world than the day before."*
 
-- [Your logical falacies](https://yourlogicalfallacyis.com/) "*Thou shalt not commit logical fallacies.*"
+- [Your logical falacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their **awesome poster**!)
 
 
 ###  Some questions that have kept me awake at night (seriously)
