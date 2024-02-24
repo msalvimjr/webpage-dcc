@@ -89,7 +89,7 @@ Here it is a list of some science-related stuff I find cool; items are presented
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
 
-  (A fascinating book on this topic is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, named in the secion on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.)
+  (A fascinating book on this topic is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, listed in the section on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.)
 
 
 ### Some of my talks for science communication (in Portuguese)
