@@ -17,7 +17,7 @@ header:
 
 <div style="text-align: justify"> 
 
-### Books on the popularization of CS, Logics, and Maths
+### Books on the popularization of CS, Math, Logics, and Science
 
 - [Logicomix: An Epic Search for Truth](https://www.logicomix.com/en/index.html), by Apostolos Doxiadis and Christos Papadimitriou:
 *"Covering a span of sixty years, the graphic novel Logicomix was inspired by the epic story of the quest for the Foundations of Mathematics."* 
@@ -26,6 +26,20 @@ header:
 *"Turing's fascinating and remarkable theory, which now forms the basis of computer science, explained for the general reader."*
 
 - [The Critical Thinker's Dictionary: Biases, Fallacies, and Illusions and What You Can Do About Them](https://www.goodreads.com/book/show/18935911-the-critical-thinker-s-dictionary), by Robert Carroll: *"The Critical Thinker’s Dictionary isn’t a collection of dry definitions, but a colorful, three-dimensional portrait of the major obstacles to critical thinking and what we can do to overcome them."*
+
+- [Zero: The Biography of a Dangerous Idea](https://www.univ.ox.ac.uk/book/zero-biography-dangerous-idea/), by Charles Seife: *"In Zero, Science Journalist Charles Seife follows this innocent-looking number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe, its rise and transcendence in the West, and its ever-present threat to modern physics."*
+
+- [Flatland: A Romance of Many Dimensions](https://www.goodreads.com/book/show/433567.Flatland), by Edwin A. Abbott: *"This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years."*
+
+- [The Eerie Silence: Renewing Our Search for Alien Intelligence](https://www.harpercollins.com/products/the-eerie-silence-paul-davies?variant=39936005341218), by Paul Davies: *"In this provocative book Davies refocuses the search, challenging existing ideas of what form an alien intelligence might take, how it might try to communicate with us, and how we should respond if it does."*
+
+### Book that can expand your horizons if you want to dive a bit in more technical details...
+
+- [Probability Theory: The Logic of Science](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99), by E. T. Jaynes: *"The standard rules of probability can be interpreted as uniquely valid principles in logic. In this book, E. T. Jaynes dispels the imaginary distinction between 'probability theory' and 'statistical inference', leaving a logical unity and simplicity, which provides greater technical power and flexibility in applications."*
+
+- [How to Prove It: A Structured Approach](https://www.cambridge.org/highereducation/books/how-to-prove-it/6D2965D625C6836CD4A785A2C843B3DA), by Daniel J. Velleman: *"This bestselling text's [...] helps students transition from solving problems to proving theorems by teaching them the techniques needed to read and write proofs."*
+
+- [An Introduction to Functional Programming Through Lambda Calculus](https://www.goodreads.com/en/book/show/12169041), by Greg Michaelson: *"This well-respected text offers an accessible introduction to functional programming concepts and techniques for students of mathematics and computer science."*
 
 ### Youtube channels on Science, Maths, Philosophy, and other cool stuff
 
@@ -60,11 +74,13 @@ header:
 - [Your logical falacies](https://yourlogicalfallacyis.com/) "*Thou shalt not commit logical fallacies.*"
 
 
-###  Some questions that keep me awake at night (seriously)
+###  Some questions that have kept me awake at night (seriously)
 
-- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder thant it looks, and if we get it wrong, we could be doomed. No, seriously!)
+- [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder thant it looks, and if we get it wrong in the first try, humankind could be doomed. No, seriously!)
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
+
+A particularly good book on this is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, named in the secion on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.
 
 
 ### Some of my talks for science communication (in Portuguese)
