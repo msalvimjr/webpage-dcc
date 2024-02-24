@@ -61,6 +61,6 @@ This is not all that I do, though. Take a look at my [Google Scholar profile](ht
 
 **Answer:** All hypotheses above have been refuted over and over using the scientific method. And the [scientific method](https://plato.stanford.edu/entries/scientific-method/) is the most powerful, reliable way of finding out the truth that humankind has ever developed. Indeed, there is broad consensus about all these matters you mentioned in your previous questions; the “controversy” comes mostly from outside the scientific community.
 
-An exceptional take the question of *“How can we make intelligent decisions about our increasingly technology-driven lives if we don’t understand the difference between the myths of pseudoscience and the testable hypotheses of science?”* can be found in Carl Sagan's amazing book *The Demon-Haunted World: Science as a Candle in the Dark*, listed in my section on [Books on the popularization of CS, Math, Logics, and Science](../../cool-science-stuff/#books-on-the-popularization-of-cs-math-logics-and-science).
+(An exceptional take on the question of *“How can we make intelligent decisions about our increasingly technology-driven lives if we don’t understand the difference between the myths of pseudoscience and the testable hypotheses of science?”* can be found in Carl Sagan's classic, must-read book *The Demon-Haunted World: Science as a Candle in the Dark*, listed in my section on [Books on the popularization of CS, Math, Logics, and Science](../../cool-science-stuff/#books-on-the-popularization-of-cs-math-logics-and-science).)
 
 </div>
