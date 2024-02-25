@@ -231,9 +231,11 @@ sections:
   #     columns: '2'
   - block: markdown
     content:
-      title: News
+      title: Highlights
       subtitle: ''
       text: '
+
+      ### News
       
       - I am back at UFMG from a sabbatical year in 2023 as a visiting researcher/engineer to [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), France, to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/).     
 
@@ -255,7 +257,30 @@ sections:
 
       </br></br>
 
+    ### Science communication
+
       - Some science-related stuff that I find cool [can be found here](cool-science-stuff).
+
+      </br></br>
+
+      - Some of my talks for science communication (in Portuguese):
+        <ul>
+          <li> 
+          [Quando criptografia não garante segurança](https://youtu.be/ki8YNZypjAc)
+          *(When cryptography is not enough to ensure security)*,
+          Summer School in Computer Science, DCC-UFMG.  
+          </li>
+          <li> 
+          [Uma abordagem Bayesiana sobre o método científico e a navalha de Occam](https://youtu.be/BC8VJpjmb4E)
+          *(A Bayesian interpretation of the scientific method and of Occam’s razor)*,
+          Summer School in Computer Science, DCC-UFMG. 
+          </li>
+          <li>
+          [O que é "teoria" em ciência da computação?](https://www.youtube.com/watch?v=TyAkbOvocnY)
+          *(What’s "theory" in computer science?)*,
+          Introduction to Computer Science, Computational Mathematics, Data Science, and Information Systems.
+          </li>
+        </ul>
       '
   # - block: markdown
   #   content:

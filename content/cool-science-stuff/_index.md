@@ -101,17 +101,17 @@ Here is a list of some science-related stuff I find cool; items are presented in
 (Ok, it's probably a bit pretentious of me to have this list under the "cool stuff" label, but I couldn't find any better place for it. Please be forgiving...)
 
 - [Quando criptografia não garante segurança](https://youtu.be/ki8YNZypjAc)
-      *(When cryptography is not enough to ensure security)*
+      *(When cryptography is not enough to ensure security)*,
       Summer School in Computer Science, DCC-UFMG. 
       <!-- [[Talk – Part 1/2]](https://youtu.be/ki8YNZypjAc) [[Talk – Part 2/2]](https://youtu.be/0FerSVZkPes) -->
 
 - [Uma abordagem Bayesiana sobre o método científico e a navalha de Occam](https://youtu.be/BC8VJpjmb4E)
-      *(A Bayesian interpretation of the scientific method and of Occam’s razor)*
+      *(A Bayesian interpretation of the scientific method and of Occam’s razor)*,
       Summer School in Computer Science, DCC-UFMG. 
       <!-- [[Talk]](https://youtu.be/BC8VJpjmb4E) -->
 
 - [O que é "teoria" em ciência da computação?](https://www.youtube.com/watch?v=TyAkbOvocnY)
-      *(What’s "theory" in computer science?)*
+      *(What’s "theory" in computer science?)*,
       Introduction to Computer Science, Computational Mathematics, Data Science, and Information Systems. 
       <!-- [[Talk]](https://www.youtube.com/watch?v=TyAkbOvocnY) -->
 
