@@ -263,7 +263,7 @@ sections:
 
       </br></br>
 
-      - Some of my talks for science communication (in Portuguese):
+      - Some of my talks for science communication (**in Portuguese**):
         <ul>
           <li> 
           [Quando criptografia não garante segurança](https://youtu.be/ki8YNZypjAc)
