@@ -71,7 +71,7 @@ Suppose that in an ordinary exam, 50% of the true/false questions are true and 5
 
 Now suppose that I adopt the rule that every wrong answer cancels out a correct answer. An unprepared student facing a question whose answer they don’t know still has to choose between leaving the answer blank or making a blind guess. If the question is left blank, the grade for the question will be 0 marks. If the student blindly guesses an answer, they respond  correctly with a probability of 50%. In case the answer is correct, they will get full marks for the question (say, N marks), and in case it's wrong they will have the marks for another correctly answered question canceled out (which means they’ll lose N marks). Hence, the student’s expected grade in this case will be
 
-50% (N marks) + 50% (-N marks) = 0 marks.
+50% * (N marks) + 50% * (-N marks) = 0 marks.
 
 Now you can probably understand why I adopt this policy. It discourages an unprepared student from blindly guessing, and brings the expected grade of such a student back to zero -- since the expected gain of guessing and that of leaving the question blank is the same. On the other hand, a prepared student still has an incentive to answer the question, as their expected gain will be positive (but the derivation of this result is left for you as an exercise 😉).
 
