@@ -87,14 +87,15 @@ Here is a list of some science-related stuff I find cool; items are presented in
 - [Your logical fallacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their **awesome poster**!)
 
 
-###  Some questions that have kept me awake at night (seriously)
+###  Some questions that have kept me awake at night (at some point in the past, or as recently as last week)
 
 - [The alignment problem](https://www.youtube.com/watch?v=pYXy-A4siMw): *"How to steer AI systems towards humans' intended goals, preferences, or ethical principles?"* (Spoiler: it's **much** harder than it looks, and if we get it wrong on the first try, humankind could be doomed. No, seriously!)
 
 - [The Fermi paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html): *"The discrepancy between the lack of conclusive evidence of advanced extraterrestrial life and the apparently high likelihood of its existence"*.
 
-  (A fascinating book on this topic is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, listed in the section on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.)
+  (A fascinating book on this topic is *The Eerie Silence: Renewing Our Search for Alien Intelligence*, by Paul Davies, listed in the section on [Books on the popularization of CS, Math, Logics, and Science](#books-on-the-popularization-of-cs-math-logics-and-science) just above.)
 
+- [The problem of free will](https://www.youtube.com/watch?v=3O61I0pNPg8): *"What does it mean to have—or not have—free will? Were the actions of mass murderers pre-determined billions of years ago? Do brain processes trump personal responsibility? Can experiments prove that free will is an illusion?"*
 
 ### Some of my talks for science communication (in Portuguese)
 
