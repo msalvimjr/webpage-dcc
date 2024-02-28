@@ -36,6 +36,6 @@ header:
   </br>
 
 - **First place in CEFET-MG’s XVIII META competition, 2000.**
-  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](../bhbusca), for which we received the first prize in the XVIII Mostra Específica de Trabalhos e Aplicações (META).  
+  While obtaining my technical high-school degree in Industrial Informatics from [CEFET-MG](http://www.cefetmg.br/), my team of students developed the first point-to-point information system for public transportation in Minas Gerais, the system [BHBusca](../bhbusca), for which we received the first prize in the XVII META competition (*"Mostra Específica de Trabalhos e Aplicações"*).  
 
 </div>
