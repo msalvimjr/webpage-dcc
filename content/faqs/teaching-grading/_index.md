@@ -26,7 +26,7 @@ header:
 **Answer:** A statement of my teaching principles can be found in the syllabus of every course I teach. Here’s a summary:
 
 - **Principle 1: “Everything should be made as simple as possible, but not simpler.”**
-  I approach each topic as clearly and directly as possible, but with proper balance not to avoid its intrinsic complexity. I believe that it is part of a student’s path of development to be properly challenged intellectually.s
+  I approach each topic as clearly and directly as possible, but with proper balance not to avoid its intrinsic complexity. I believe that it is part of a student’s path of development to be properly challenged intellectually.
 
 - **Principle 2: Good learning = mastering the theory + interpreting the results.**
   Most of my courses are of a mathematical and fundamental nature, and I boldly work to develop students’ both mathematical and pragmatic skills. I detect that some students present highly developed mathematical ability, while others present a great talent for identifying problems in the real world that need a solution, but often some students are not able to present both capabilities at the same time. I design my lectures and activities to help develop in every student their best in both skills since success in the real world involves mastering both.
@@ -35,7 +35,7 @@ header:
   However talented one is, they can always do better when they work hard. Reading the basic bibliography is essential, as is doing homework, and such habits will improve anyone’s results. Understanding everything covered in a lecture does not automatically mean one will master the subject. Reading and practicing are essential, and irreplaceable.
 
 - **Principle 4: Students’ development involves teamwork between students and teachers.**
-  It’s clear to me that students and teachers share the same goal in striving for the former’s best development, and so I see my students and myself as a team working together to achieve this objective. As in any team, each member has to do their best, and I certainly strive to do mine as a teacher. Similarly, I expect students to offer their best in their particular situation.
+  It’s clear to me that students and teachers share the same goal in striving for the former’s best development, and so I see my students and myself as a team working together to achieve this objective. As in any team, each member has to do their best, and I certainly strive to do mine as a teacher. Similarly, I expect students to offer their best in their particular context.
 
 
 ### Grading
