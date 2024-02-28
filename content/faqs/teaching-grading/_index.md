@@ -65,7 +65,7 @@ Here there are some examples of invalid justifications:
 
 **Question:** *Why in true/false questions does each wrong answer cancel out a correct answer?*
 
-**Answer:** This rule is just a natural application of a field of study called decision theory (if you are interested in it, you can take [my course on information theory](www.dcc.ufmg.br/~msalvim/info-theory), where we discuss the subject). Let me try to briefly explain here the rationale behind this rule.
+**Answer:** This rule is just a natural application of a field of study called decision theory (if you are interested in it, you can take [my course on information theory](/content/teaching/info-theory/_index.md), where we discuss the subject). Let me try to briefly explain here the rationale behind this rule.
 
 Suppose that in an ordinary exam, 50% of the true/false questions are true and 50% are false. An unprepared student who blindly guesses the answer to each question is expected to get 50% of the answers correctly (by simply, say, guessing all answers to be “true”). In case I don’t use the rule that a wrong answer cancels out a correct answer, such a student is expected to get 50% of the marks for this question, even if they know nothing about the subject of the exam!
 
