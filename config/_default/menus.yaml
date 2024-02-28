@@ -66,24 +66,24 @@ main:
     identifier: about
   #  url: 'about'
     weight: 70
-  - name: 'A little about myself'
-    identifier: about-more
-    url: 'about'
-    parent: about
-    weight: 10
   - name: 'FAQ: Teaching & Grading'
     identifier: faq-teaching-grading-2
     url: 'faqs/teaching-grading'
     parent: about
-    weight: 20
+    weight: 10
   - name: 'FAQ: Research & Science'
     identifier: faq-research-science
     url: 'faqs/research-science'
     parent: about
-    weight: 30
-  - name: 'Some cool science-related stuff'
+    weight: 20
+  - name: 'Cool science-related stuff'
     identifier: cool-science-stuff
     url: 'cool-science-stuff'
+    parent: about
+    weight: 30
+  - name: 'Short bio'
+    identifier: about-more
+    url: 'about'
     parent: about
     weight: 40
   - name: 'Contact'

@@ -1,5 +1,5 @@
 ---
-title: 'A little more about myself'
+title: 'Short bio'
 cms_exclude: true
 
 # View.
