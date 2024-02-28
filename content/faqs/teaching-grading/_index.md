@@ -47,7 +47,7 @@ header:
 **Answer:** If you believe one or more questions in an exam were unfairly graded, please write a clear and concise justification of why you think that is the case. You must:
 
 1. write your justification on the side of each corresponding question in the exam itself,
-1. add to the top of the front page of the exam: “Please, review questions 1a, 2, and 4c”, and
+1. add to the top of the front page of the exam: *“Please, review questions 1a, 2, and 4c”*, and
 1. return the exam to me.
 
 I will analyze your request and respond in writing in the exam itself.
