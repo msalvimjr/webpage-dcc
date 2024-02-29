@@ -73,6 +73,8 @@ Here is a list of some science-related stuff I find cool; items are presented in
 
 - [Crash Course Philosophy](https://www.youtube.com/watch?v=BNYJQaZUDrI&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR): *"Hank hosts Crash Course Philosophy, produced in association with PBS Digital Studios."*
 
+- [Hygiène Mentale](https://www.youtube.com/@HygieneMentale) (in French): *"Zététique , Scepticisme, Étude scientifique des phénomènes dites 'paranormaux'."*
+
 - [Canal do Pirulla](https://www.youtube.com/@Pirulla25/videos) (in Portuguese):
   *"Canal voltado às coisas que mais me interessam: ciência, religião e evolução. Este canal faz parte da iniciativa Science Vlogs Brasil, um selo de qualidade colaborativo que reúne os divulgadores de ciência mais confiáveis do Youtube Brasil."*
 
@@ -84,7 +86,9 @@ Here is a list of some science-related stuff I find cool; items are presented in
 
 - [LessWrong](https://www.lesswrong.com/):  *"LessWrong is an online forum and community dedicated to improving human reasoning and decision-making. We seek to hold true beliefs and to be effective at accomplishing our goals. Each day, we aim to be less wrong about the world than the day before."*
 
-- [Your logical fallacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their **awesome poster**!)
+- [Your logical fallacies](https://yourlogicalfallacyis.com/): "*Thou shalt not commit logical fallacies.*" (Don't forget to check their free-to-download **awesome posters**!)
+
+- [Project Euler](https://projecteuler.net/): *"Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems."*
 
 
 ###  Some questions that have kept me awake at night (at some point in the past, or as recently as last week)
