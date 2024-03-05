@@ -22,6 +22,7 @@ header:
 - Program committee member of the 33rd USENIX Security Symposium ([USENIX 2024](https://www.usenix.org/conference/usenixsecurity24))
 - Program committee member of the 37th IEEE Computer Security Foundations Symposium ([CSF 2024](https://csf2024.ieee-security.org/))
 - Program committee member of the 24th Privacy Enhancing Technologies Symposium ([PETS 2024](https://petsymposium.org/cfp24.php))
+- Program committee member of the XXIV Brazilian Symposium on Information and Computational Systems Security ([SBSeg 2024](https://sbseg2024.ita.br/en/homepage/))
 - Jury member of the [8th CNIL-Inria Privacy Award](https://www.cnil.fr/en/launch-8th-edition-cnil-inria-privacy-award)
 
 #### 2023
