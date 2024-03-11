@@ -253,7 +253,7 @@ sections:
 
       </br></br>
 
-      - Our book ["The Science of Quantitative Information Flow"](https://www.springer.com/us/book/9783319961293) has been published! 
+      - Our book [*"The Science of Quantitative Information Flow"*](https://www.springer.com/us/book/9783319961293) has been published! 
 
       </br></br>
 
