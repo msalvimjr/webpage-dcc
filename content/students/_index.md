@@ -37,33 +37,33 @@ Feel free to [contact me](../#contact) about opportunities and to discuss topics
 
 #### Former M.Sc. Students
 - Bruno Demattos Nogueira, 2023:
-*On the relation of privacy and fairness through the lenses of quantitative information flow*
-- Ramon Gonçalves Gonze, 2023: [*A Quantitative lnformation Flow Model for Attribute-lnference Attacks and Utility in Data Releases by Sampling*](http://hdl.handle.net/1843/51808)
+[*"On the relation of privacy and fairness through the lenses of quantitative information flow"*](http://hdl.handle.net/1843/64585)
+- Ramon Gonçalves Gonze, 2023: [*"A Quantitative lnformation Flow Model for Attribute-lnference Attacks and Utility in Data Releases by Sampling"*](http://hdl.handle.net/1843/51808)
 - Tiago Melo Tannus, 2022:
-[*Towards the quantification of information leakage for dynamic secrets*](http://hdl.handle.net/1843/62095)
+[*"Towards the quantification of information leakage for dynamic secrets"*](http://hdl.handle.net/1843/62095)
 - Gabriel Henrique Lopes Gomes Alves Nunes, 2021:
-[*A formal quantitative study of privacy in the publication of official educational censuses in Brazil*](http://hdl.handle.net/1843/38085)
+[*"A formal quantitative study of privacy in the publication of official educational censuses in Brazil"*](http://hdl.handle.net/1843/38085)
 - Thiago Vieira de Alcântara Silva, 2019:
 *On the relationship of privacy and fairness in machine learning*
 - Arthur Américo Passos de Rezende, 2018:
-[*An Algebraic Framework for Quantitative Information Flow*](http://hdl.handle.net/1843/ESBF-B4JJ89)
+[*"An Algebraic Framework for Quantitative Information Flow"*](http://hdl.handle.net/1843/ESBF-B4JJ89)
 
 ---
 
 #### Former Co-supervisions
 
 - Rodrigo de Magalhães Silva, Ph.D., 2022: 
-*Compression-Based Unsupervised sampling for Learning to Rank*
+*"Compression-Based Unsupervised sampling for Learning to Rank"*
 . 
 Main supervisor: [Marcos André Gonçalves](https://dcc.ufmg.br/professor/marcos-andre-goncalves/)
 
 - Danilo Fabrino Favato, M.Sc., 2021:
-[*Confidential Data Leakage in Brazilian Official Foreign Trade Statistics*](http://hdl.handle.net/1843/56369) 
+[*"Confidential Data Leakage in Brazilian Official Foreign Trade Statistics"*](http://hdl.handle.net/1843/56369) 
 .
 Main supervisor: [Gabriel de Morais Coutinho](https://dcc.ufmg.br/professor/gabriel-de-morais-coutinho/)
 
 - André Lopes Gonzaga, M.Sc., 2019:
-[*A Probabilistic Algorithm To Predict Missing Facts From Knowledge Graphs*](http://hdl.handle.net/1843/34314)
+[*"A Probabilistic Algorithm To Predict Missing Facts From Knowledge Graphs"*](http://hdl.handle.net/1843/34314)
 .
 Main supervisor: [Mirella Moura Moro](https://dcc.ufmg.br/professor/mirella-moura-moro/)
 

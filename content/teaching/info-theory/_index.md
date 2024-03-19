@@ -19,7 +19,7 @@ header:
 
 #### General Information
 
-- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, room TBA.
+- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, <span style="color:red">in Auditorium B301 in CAD 3</span>.
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L00_Syllabus%5bstill%5d.pdf)
 

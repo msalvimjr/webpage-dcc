@@ -19,7 +19,7 @@ header:
 
 #### Informações gerais
 
-- **Local e hora das aulas:** Terças e quintas, 17:00-18:40, sala a ser determinada.
+- **Local e hora das aulas:** Terças e quintas, 17:00-18:40, <span style="color:red">na sala A309 do CAD 3</span>.
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 

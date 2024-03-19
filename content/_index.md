@@ -241,7 +241,7 @@ sections:
 
       </br></br>
 
-      - Our research has been used to evaluate the privacy in the microdata of The Official Brazilian Educational Censuses and is being used by [INEP](https://www.gov.br/inep/) (the Official Brazilian Institute of Educational Studies and Research) to [review their data-publishing policies](https://www.gov.br/inep/pt-br/assuntos/noticias/institucional/nota-de-esclarecimento-divulgacao-dos-microdados). (A summary of our methodology and results has been [published in English](https://petsymposium.org/popets/2022/popets-2022-0114.php).) The project has been renewed for the year 2024.
+      - Our research has been used to evaluate privacy in the microdata of the official Brazilian Educational Censuses and is being used by [INEP](https://www.gov.br/inep/) (the Official Brazilian Institute for Educational Studies and Research) to [review their data-publishing policies](https://www.gov.br/inep/pt-br/assuntos/noticias/institucional/nota-de-esclarecimento-divulgacao-dos-microdados). (A scientific paper on our methodology and main findings has been [published in English at PETs](https://petsymposium.org/popets/2022/popets-2022-0114.php).) The project has been renewed for the year 2024.
 
       </br></br>
 
@@ -253,7 +253,7 @@ sections:
 
       </br></br>
 
-      - Our book ["The Science of Quantitative Information Flow"](https://www.springer.com/us/book/9783319961293) has been published! 
+      - Our book [*"The Science of Quantitative Information Flow"*](https://www.springer.com/us/book/9783319961293) has been published! 
 
       </br></br>
 
