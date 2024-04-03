@@ -32,6 +32,9 @@ Here is a list of some science-related stuff I find cool; items are presented in
 - [Logicomix: An Epic Search for Truth](https://www.logicomix.com/en/index.html), by Apostolos Doxiadis and Christos Papadimitriou:
 *"Covering a span of sixty years, the graphic novel Logicomix was inspired by the epic story of the quest for the Foundations of Mathematics."* 
 
+- [Proofs and Refutations: The Logic Mathematical Discovery](https://www.cambridge.org/core/books/proofs-and-refutations/575FC8A6B4FAB79E649EDF5FBB9C6E10), by Imre Lakatos:
+*"Proofs and Refutations is essential reading for all those interested in the methodology, the philosophy and the history of mathematics. Much of the book takes the form of a discussion between a teacher and his students."* 
+
 - [The Critical Thinker's Dictionary: Biases, Fallacies, and Illusions and What You Can Do About Them](https://www.goodreads.com/book/show/18935911-the-critical-thinker-s-dictionary), by Robert Carroll: *"The Critical Thinker’s Dictionary isn’t a collection of dry definitions, but a colorful, three-dimensional portrait of the major obstacles to critical thinking and what we can do to overcome them."*
 
 - [Zero: The Biography of a Dangerous Idea](https://www.univ.ox.ac.uk/book/zero-biography-dangerous-idea/), by Charles Seife: *"In Zero, Science Journalist Charles Seife follows this innocent-looking number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe, its rise and transcendence in the West, and its ever-present threat to modern physics."*
