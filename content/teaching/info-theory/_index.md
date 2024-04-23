@@ -25,9 +25,9 @@ header:
 
 - **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-03-19)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
 
-<!-- - <span style="color:red">**Seminars:**</span>
-    - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf)
-    - <span style="color:red">Groups, topics, and presentation dates:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf) -->
+- <span style="color:red">**Seminars:**</span>
+  - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf)
+  - <span style="color:red">Groups, topics, and presentation dates:</span> [T.B.A.]
 
 - **FAQ:** Answers to frequently asked questions about my didactic principles can be found [here](../../faqs/teaching-grading/).
 
