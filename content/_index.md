@@ -245,7 +245,11 @@ sections:
 
       </br></br>
 
-      - Our Ph.D. candidate [Gabriel Henrique Nunes](https://nunesgh.com/en/), in co-tutelle with [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) from Macquarie University, is one of the recipients of the [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/), with the project “A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”.
+      - Our paper *"On the Duality of Privacy and Fairness (Extended Abstract)"*, with M.Sc. graduates Bruno D. Nogueira and Thiago V. A. Silva, has been awarded the best paper prize at the International Conference on AI and the Digital Economy [CADE 2023](https://warwick.ac.uk/fac/sci/wmg/news-and-events/events/wmgevents/cade2024/).       
+
+      </br></br>
+
+      - Our Ph.D. candidate [Gabriel Henrique Nunes](https://nunesgh.com/en/), in co-tutelle with [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) from Macquarie University, is one of the recipients of the [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/), with the project *“A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”*.
 
       </br></br>
 

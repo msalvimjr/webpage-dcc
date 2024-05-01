@@ -1,7 +1,6 @@
 ---
-title: Awards & honors
+title: 'Awards & honors'
 cms_exclude: true
-type: landing
 
 # View.
 #   1 = List
