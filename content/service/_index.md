@@ -18,6 +18,9 @@ header:
 <div style="text-align: justify"> 
 
 #### 2024
+- Program committee member of the 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/cfp25.php))
+
+#### 2024
 - Program committee member of the 31st ACM Conference on Computer and Communications Security ([CCS 2024](https://www.sigsac.org/ccs/CCS2024/)) -- Privacy and Anonymity track
 - Program committee member of the 33rd USENIX Security Symposium ([USENIX 2024](https://www.usenix.org/conference/usenixsecurity24))
 - Program committee member of the 37th IEEE Computer Security Foundations Symposium ([CSF 2024](https://csf2024.ieee-security.org/))
