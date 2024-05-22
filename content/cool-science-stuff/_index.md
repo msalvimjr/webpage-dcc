@@ -66,6 +66,9 @@ Here is a list of some science-related stuff I find cool; items are presented in
   *"Space, astronomy, exoplanets, astroengineering and the search for extraterrestrial life & intelligence.
   The Cool Worlds Lab, based at the Department of Astronomy, Columbia University, is a team of astronomers seeking to discover and understand alien worlds, particularly those where temperatures are cool enough for life, led by Professor David Kipping."*
 
+- [PBS Eons](https://www.youtube.com/@eons):
+  *"Join hosts Kallie Moore, Michelle Barboza-Ramirez, Gabriel Santos, and Blake de Pastino as they take you on a journey through the history of life on Earth."*  
+
 - [Numberphile](https://www.youtube.com/@numberphile): 
   *"Videos about numbers and mathematics. Videos by Brady Haran since 2011."*
 
