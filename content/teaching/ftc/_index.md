@@ -25,10 +25,10 @@ header:
 
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(atualizado em 2024-06-04, depois da greve)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2024-1%20-%20Cronograma.pdf)
 
-<!-- - <span style="color:red">**Seminários:**</span>
+- <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
     - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[TBA]]()
- -->
+
 - **FAQ:** Algumas dúvidas comuns sobre meus métodos de ensino e de avaliação estão [respondidas aqui](../../faqs/teaching-grading/).
 
 #### Material da disciplina
