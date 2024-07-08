@@ -21,6 +21,7 @@ role: Assistant Professor (Tenured)
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Department of Computer Science
   - name: UFMG
     url: https://www.ufmg.br
 
