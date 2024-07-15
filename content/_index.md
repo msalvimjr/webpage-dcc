@@ -236,6 +236,10 @@ sections:
       text: '
 
       ### News
+
+      - Our paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165)  has been awarded a [Test-of-Time Awards](https://www.ieee-security.org/CSFWweb/distinguished.html) (hopefully the webpage will be updated soon :-)) in the [37th IEEE Computer Security Foundations Symposium (CSF 2024)](https://csf2024.ieee-security.org/).
+
+      </br></br>
       
       - I am back at UFMG from a sabbatical year in 2023 as a visiting researcher/engineer to [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), France, to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/).     
 
@@ -245,7 +249,7 @@ sections:
 
       </br></br>
 
-      - Our paper *"On the Duality of Privacy and Fairness (Extended Abstract)"*, with M.Sc. graduates Bruno D. Nogueira and Thiago V. A. Silva, has been awarded the best paper prize at the International Conference on AI and the Digital Economy [CADE 2023](https://warwick.ac.uk/fac/sci/wmg/news-and-events/events/wmgevents/cade2024/).       
+      - Our paper *"On the Duality of Privacy and Fairness (Extended Abstract)"*, with M.Sc. graduates Bruno D. Nogueira and Thiago V. A. Silva, has been awarded the best paper prize at the [International Conference on AI and the Digital Economy (CADE 2023)](https://warwick.ac.uk/fac/sci/wmg/news-and-events/events/wmgevents/cade2024/).       
 
       </br></br>
 
