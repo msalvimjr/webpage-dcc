@@ -19,13 +19,18 @@ header:
 
   </br>
 
+- **IEEE CSF 2024 Test of Time Award for the seminal work on the g-vulnerability framework for the quantification of information flow, 2024.**
+  Our IEEE CSF 2012 paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165) won a [Test-of-Time Award](https://www.ieee-security.org/CSFWweb/distinguished.html) (hopefully the webpage will be updated soon :-)) at the [37th IEEE Computer Security Foundations Symposium (IEEE CSF 2024)](https://csf2024.ieee-security.org/).
+
+  </br>
+  
 - **Recipient of the 9th Google Latin America Research Awards, with the Ph.D. student Gabriel Henrique Nunes, 2022.**
   [Gabriel Henrique Nunes](https://nunesgh.com/en/) is a Ph.D. student in co-tulle between UFMG, under my supervision, and Macquarie University, under the supervision of Prof. Annabelle McIver. The [9th Google Latin America Research Awards (2022)](https://blog.google/intl/pt-br/novidades/iniciativas/conheca-os-vencedores-do-premio-lara-2021-o-programa-de-bolsas-de-pesquisa-do-google/) refers to the project  *“A QIF-Based Robust and Explainable Framework for Assessing Privacy Risks of Large Data Releases”*.
 
   </br>
 
 - **Winning paper in the NSA 3rd Annual Best Scientific Cybersecurity Paper Competition, 2014.**
-  Our CSF 2014 paper [*"Additive and Multiplicative Notions of Leakage and Their Capacities"*](https://ieeexplore.ieee.org/document/6957119) was awarded the first prize in the [Third NSA Competition for Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1628902/nsa-announces-winner-of-annual-cybersecurity-research-paper-competition/), through which the Direction of Research of the American National Security Agency (NSA) recognizes the best scientific cybersecurity works published in the year of 2014. This is joint work with [Kostas Chatzikokolakis](https://www.chatzi.org/), [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver), [Carrol Morgan](https://research.unsw.edu.au/people/professor-carroll-morgan), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), and [Geoffrey Smith](https://cyber.fiu.edu/people/profiles/lauren-klein129.html).
+  Our IEEE CSF 2014 paper [*"Additive and Multiplicative Notions of Leakage and Their Capacities"*](https://ieeexplore.ieee.org/document/6957119) was awarded the first prize in the [Third NSA Competition for Best Scientific Cybersecurity Paper](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/1628902/nsa-announces-winner-of-annual-cybersecurity-research-paper-competition/), through which the Direction of Research of the American National Security Agency (NSA) recognizes the best scientific cybersecurity works published in the year of 2014. This is joint work with [Kostas Chatzikokolakis](https://www.chatzi.org/), [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver), [Carrol Morgan](https://research.unsw.edu.au/people/professor-carroll-morgan), [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), and [Geoffrey Smith](https://cyber.fiu.edu/people/profiles/lauren-klein129.html).
 
   </br>
 
