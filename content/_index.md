@@ -237,7 +237,7 @@ sections:
 
       ### News
 
-      - Our paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165)  has been awarded a [Test-of-Time Awards](https://www.ieee-security.org/CSFWweb/distinguished.html) (hopefully the webpage will be updated soon :-)) at the [37th IEEE Computer Security Foundations Symposium (CSF 2024)](https://csf2024.ieee-security.org/).
+      - Our 2012 paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165)  has been awarded a [Test-of-Time Awards](https://www.ieee-security.org/CSFWweb/distinguished.html) (hopefully the webpage will be updated soon :-)) at the [37th IEEE Computer Security Foundations Symposium (CSF 2024)](https://csf2024.ieee-security.org/).
 
       </br></br>
       
