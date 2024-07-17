@@ -23,7 +23,7 @@ header:
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L00_Syllabus%5bstill%5d.pdf)
 
-- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-06-04, after the strike)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
+- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-07-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
 
 - <span style="color:red">**Seminars:**</span>
   - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf)
