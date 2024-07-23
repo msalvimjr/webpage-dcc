@@ -48,7 +48,7 @@ main:
     url: 'teaching/ilc'
     parent: teaching
     weight: 30
-  - name: DCC 831/030/049 - QIF (2022/3)
+  - name: DCC 831/030/049 - QIF (2022/2)
     identifier: qif
     url: 'teaching/qif'
     parent: teaching
