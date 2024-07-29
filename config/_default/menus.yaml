@@ -43,7 +43,7 @@ main:
     url: 'teaching/info-theory'
     parent: teaching
     weight: 20
-  - name: DCC 836 - ILC (2022/1)
+  - name: DCC 638 - ILC (2022/1)
     identifier: ilc
     url: 'teaching/ilc'
     parent: teaching
