@@ -19,7 +19,7 @@ header:
 
 #### Informações gerais
 
-- **Local e hora das aulas:** Segundas e quartas, 17:00-18:40, CAD 3 – Sala 408.
+- **Local e hora das aulas:** Segundas e quartas, 17:00-18:40, na sala 408 do CAD 3.
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 

@@ -19,15 +19,15 @@ header:
 
 #### General Information
 
-- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, <span style="color:red">in Auditorium B301 in CAD 3</span>.
+- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, in Auditorium B301 in CAD 3.
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/L00_Syllabus%5bstill%5d.pdf)
 
 - **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2024-07-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/Info-Theory-2024-1%20-%20Calendar.pdf)
 
-- <span style="color:red">**Seminars:**</span>
+<!-- - <span style="color:red">**Seminars:**</span>
   - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5binstructions%5d.pdf)
-  - <span style="color:red">Groups, topics, and presentation dates:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5bgroups-topics%5d.pdf)
+  - <span style="color:red">Groups, topics, and presentation dates:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/infotheory/seminar%5bgroups-topics%5d.pdf) -->
 
 - **FAQ:** Answers to frequently asked questions about my didactic principles can be found [here](../../faqs/teaching-grading/).
 

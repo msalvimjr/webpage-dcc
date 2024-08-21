@@ -19,15 +19,15 @@ header:
 
 #### Informações gerais
 
-- **Local e hora das aulas:** Terças e quintas, 17:00-18:40, <span style="color:red">na sala A309 do CAD 3</span>.
+- **Local e hora das aulas:** Terças e quintas, 17:00-18:40, na sala A309 do CAD 3.
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(atualizado em 2024-07-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2024-1%20-%20Cronograma.pdf)
 
-- <span style="color:red">**Seminários:**</span>
+<!-- - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
-    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios%5bgrupos-topicos%5d.pdf)
+    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios%5bgrupos-topicos%5d.pdf) -->
 
 - **FAQ:** Algumas dúvidas comuns sobre meus métodos de ensino e de avaliação estão [respondidas aqui](../../faqs/teaching-grading/).
 
