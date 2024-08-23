@@ -237,7 +237,7 @@ sections:
 
       ### News
 
-      - Our IEEE CSF 2012 paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165)  won a [Test-of-Time Award](https://www.ieee-security.org/CSFWweb/distinguished.html) at the [37th IEEE Computer Security Foundations Symposium (IEEE CSF 2024)](https://csf2024.ieee-security.org/). (The official CSF webpage will be updated soon, but for the time being you can find [the annoucement on X](https://x.com/CSFSymposium/status/1813976264363135041).)
+      - Our IEEE CSF 2012 paper [*"Measuring Information Leakage Using Generalized Gain Functions"*](https://ieeexplore.ieee.org/document/6266165)  won a [Test-of-Time Award](https://www.ieee-security.org/CSFWweb/distinguished.html) at the [37th IEEE Computer Security Foundations Symposium (IEEE CSF 2024)](https://csf2024.ieee-security.org/).
 
       </br></br>
       
