@@ -1,5 +1,5 @@
 ---
-title: DCC 638 – Introdução à Lógica Computacional (2022/1)
+title: DCC 638 – Introdução à Lógica Computacional (2024/2)
 cms_exclude: true
 
 # View.
@@ -19,11 +19,13 @@ header:
 
 #### Informações gerais
 
-- **Local e hora das aulas:** Segundas e quartas, 17:00-18:40, na sala 408 do CAD 3.
+- **Local e hora das aulas:** 
+  - Turma BCC/BMC: Segundas e quartas, 17:00-18:40, em sala a ser definida.
+  - Turma BSI: Segundas e quartas, 19:00-20:40, em sala a ser definida.
 
-- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
+- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[TBA]]()
 
-- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(atualizado em 2022-06-29)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/ILC-2022-1%20-%20Cronograma%20%5bTZ-TZ1%5d.pdf)
+- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red"></span>: [[TBA]]()
 
 <!-- - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
@@ -35,16 +37,16 @@ header:
 
 | Conteúdo | Slides de aula | Listas de exercícios |
 | --- | :---: | :---: | 
-| Aula 0.1 - Introdução ao Curso | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.1_Introducao%5bstill%5d.pdf) | Lista 00: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista00_Desafios-ResolucaoProblemas%5bquestoes%5d.pdf) | 
-| Aula 1.1 - Os Fundamentos: Lógica Proposicional | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.1_LogicaProposicional%5bstill%5d.pdf) | Lista 01: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista01_LogicaProposicional%5bquestoes%5d.pdf) <br> Lista 02: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista02_EquivalenciasProposicionais%5bquestoes%5d.pdf) | 
-| Aula 1.2 - Os Fundamentos: Lógica de Predicados | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.2_LogicaDePredicados%5bstill%5d.pdf) | Lista 03: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista03_PredicadosQuantificadores%5bquestoes%5d.pdf) | 
-| Aula 1.3 - Os Fundamentos: Regras de Inferência | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.3_RegrasInferencia%5bstill%5d.pdf) | Lista 04: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista04_RegrasInferencia%5bquestoes%5d.pdf) | 
-| Aula 1.4 - Os Fundamentos: Métodos de Demonstração | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.4_MetodosDemonstracao%5bstill%5d.pdf) | Lista 05: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista05_MetodosDemonstracao%5bquestoes%5d.pdf) |
-| Aula 2.1 - Estruturas Básicas: Conjuntos, Funções, Sequências, e Somatórios | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula2.1_ConjuntosFuncoesSequenciasSomatorios%5bstill%5d.pdf) | Lista 06: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista06_Conjuntos%5bquestoes%5d.pdf) |
-| Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula2.2_CardinalidadeEnumerabilidade%5bstill%5d.pdf) | Lista 07: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista07_FuncoesSequenciasCardinalidade%5bquestoes%5d.pdf) |
-| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.1_InducaoFracaForte%5bstill%5d.pdf) | Lista 08: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista08_InducaoFracaForte-BoaOrdenacao%5bquestoes%5d.pdf) |
-| Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.2_DefinicoesRecursivasInducaoEstruturalAlgoritmosRecursivos%5bstill%5d.pdf) | Lista 09: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista09_DefRecursivasIndEstruturalAlgRecursivos%5bquestoes%5d.pdf) |
-| Aula 4 - Lógica Booleana | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula4_AlgebraBooleana%5bstill%5d.pdf) | Losta 10: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista10_AlgebraBooleana%5bquestoes%5d.pdf) |
+| Aula 0.1 - Introdução ao Curso | [[TBA]]() | Lista 00: [[TBA]]() | 
+| Aula 1.1 - Os Fundamentos: Lógica Proposicional | [[TBA]]() | Lista 01: [[TBA]]() <br> Lista 02: [[TBA]]() | 
+| Aula 1.2 - Os Fundamentos: Lógica de Predicados | [[TBA]]() | Lista 03: [[TBA]]() | 
+| Aula 1.3 - Os Fundamentos: Regras de Inferência | [[TBA]]() | Lista 04: [[TBA]]() | 
+| Aula 1.4 - Os Fundamentos: Métodos de Demonstração | [[TBA]]() | Lista 05: [[TBA]]() |
+| Aula 2.1 - Estruturas Básicas: Conjuntos, Funções, Sequências, e Somatórios | [[TBA]]() | Lista 06: [[TBA]]() |
+| Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[TBA]]() | Lista 05: [[TBA]]() |
+| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[TBA]]() | Lista 05: [[TBA]]() |
+| Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[TBA]]() | Lista 05: [[TBA]]() |
+| Aula 4 - Lógica Booleana | [[TBA]]() | Lista 05: [[TBA]]() |
 
 ####  Link para vídeos das aulas no YouTube 
 

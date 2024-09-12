@@ -33,19 +33,19 @@ main:
     identifier: teaching
   #  url: 'teaching'
     weight: 50
+  - name: DCC 638 - ILC (2024/2)
+    identifier: ilc
+    url: 'teaching/ilc'
+    parent: teaching
+    weight: 10    
   - name: DCC 129 - FTC (2024/1)
     identifier: ftc
     url: 'teaching/ftc'
     parent: teaching
-    weight: 10
+    weight: 20
   - name: DCC 831/030/049 - Info. Theory (2024/1)
     identifier: info-theory
     url: 'teaching/info-theory'
-    parent: teaching
-    weight: 20
-  - name: DCC 638 - ILC (2022/1)
-    identifier: ilc
-    url: 'teaching/ilc'
     parent: teaching
     weight: 30
   - name: DCC 831/030/049 - QIF (2022/2)
