@@ -43,10 +43,10 @@ header:
 | Aula 1.3 - Os Fundamentos: Regras de Inferência | [[TBA]]() | Lista 04: [[TBA]]() | 
 | Aula 1.4 - Os Fundamentos: Métodos de Demonstração | [[TBA]]() | Lista 05: [[TBA]]() |
 | Aula 2.1 - Estruturas Básicas: Conjuntos, Funções, Sequências, e Somatórios | [[TBA]]() | Lista 06: [[TBA]]() |
-| Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[TBA]]() | Lista 05: [[TBA]]() |
-| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[TBA]]() | Lista 05: [[TBA]]() |
-| Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[TBA]]() | Lista 05: [[TBA]]() |
-| Aula 4 - Lógica Booleana | [[TBA]]() | Lista 05: [[TBA]]() |
+| Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[TBA]]() | Lista 07: [[TBA]]() |
+| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[TBA]]() | Lista 08: [[TBA]]() |
+| Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[TBA]]() | Lista 09: [[TBA]]() |
+| Aula 4 - Lógica Booleana | [[TBA]]() | Lista 10: [[TBA]]() |
 
 ####  Link para vídeos das aulas no YouTube 
 
