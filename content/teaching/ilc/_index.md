@@ -20,8 +20,8 @@ header:
 #### Informações gerais
 
 - **Local e hora das aulas:** 
-  - Turma BCC/BMC: Segundas e quartas, 17:00-18:40, em sala a ser definida.
-  - Turma BSI: Segundas e quartas, 19:00-20:40, em sala a ser definida.
+  - Turmas TZ-TZ1-TZ2: Segundas e quartas, 17:00-18:40, na sala 413 do CAD 3.
+  - Turma TW-TE: Segundas e quartas, 19:00-20:40, na sala 413 do CAD 3.
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[TBA]]()
 
