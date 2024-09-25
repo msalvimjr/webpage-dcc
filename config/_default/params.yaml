@@ -20,13 +20,13 @@ marketing:
     org_name: ''
     description: ''
     twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: 'G-6196D2S3D0'
-    microsoft_clarity: ''
+  # analytics:
+  #   google_analytics: ''
+  #   baidu_tongji: ''
+  #   google_tag_manager: 'G-6196D2S3D0'
+  #   microsoft_clarity: ''
   verification:
-    google: ''
+  # google: ''
     baidu: ''
 
 # Site header

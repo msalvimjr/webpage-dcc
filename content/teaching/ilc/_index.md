@@ -23,7 +23,7 @@ header:
   - Turmas TZ-TZ1-TZ2: Segundas e quartas, 17:00-18:40, na sala 413 do CAD 3.
   - Turma TW-TE: Segundas e quartas, 19:00-20:40, na sala 413 do CAD 3.
 
-- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[TBA]]()
+- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(Atualizado em 2024-Set-23)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/ILC-2024-2%20-%20Cronograma.pdf)
 
@@ -37,7 +37,7 @@ header:
 
 | Conteúdo | Slides de aula | Listas de exercícios |
 | --- | :---: | :---: | 
-| Aula 0.1 - Introdução ao Curso | [[TBA]]() | [[TBA]]() | 
+| Aula 0.1 - Introdução ao Curso | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.1_Introducao%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista0_Desafios-ResolucaoProblemas%5bquestoes%5d.pdf) | 
 | Aula 1.1 - Os Fundamentos: Lógica Proposicional | [[TBA]]() | [[TBA]]() (Parte A) <br> [[TBA]]() (Parte B) | 
 | Aula 1.2 - Os Fundamentos: Lógica de Predicados | [[TBA]]() | [[TBA]]() | 
 | Aula 1.3 - Os Fundamentos: Regras de Inferência | [[TBA]]() | [[TBA]]() | 
