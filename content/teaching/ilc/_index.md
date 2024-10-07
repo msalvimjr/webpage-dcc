@@ -20,8 +20,8 @@ header:
 #### Informações gerais
 
 - **Local e hora das aulas:** 
-  - Turmas TZ-TZ1-TZ2: Segundas e quartas, 17:00-18:40, na sala 413 do CAD 3.
-  - Turma TW-TE: Segundas e quartas, 19:00-20:40, na sala 413 do CAD 3.
+  - Turmas TZ-TZ1-TZ2: Segundas e quartas, 17:00-18:40, na sala 207 do CAD 3.
+  - Turma TW-TE: Segundas e quartas, 19:00-20:40, na sala 207 do CAD 3.
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 
