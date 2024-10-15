@@ -40,7 +40,7 @@ header:
 | Aula 0.1 - Introdução ao Curso | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.1_Introducao%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista0_Desafios-ResolucaoProblemas%5bquestoes%5d.pdf) | 
 | Aula 1.1 - Os Fundamentos: Lógica Proposicional | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.1_LogicaProposicional%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista1.1-A_LogicaProposicional%5bquestoes%5d.pdf) (Parte A) <br> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista1.1-B_EquivalenciasProposicionais%5bquestoes%5d.pdf) (Parte B) | 
 | Aula 1.2 - Os Fundamentos: Lógica de Predicados | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.2_LogicaDePredicados%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista1.2_PredicadosQuantificadores%5bquestoes%5d.pdf) | 
-| Aula 1.3 - Os Fundamentos: Regras de Inferência | [---] | [---] | 
+| Aula 1.3 - Os Fundamentos: Regras de Inferência | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.3_RegrasInferencia%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista1.3_RegrasInferencia%5bquestoes%5d.pdf) | 
 | Aula 1.4 - Os Fundamentos: Métodos de Demonstração | [---] | [---] |
 | Aula 2.1 - Estruturas Básicas: Conjuntos, Funções, Sequências, e Somatórios | [---] | [---] |
 | Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [---] | [---] |
