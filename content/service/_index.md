@@ -17,6 +17,9 @@ header:
 
 <div style="text-align: justify"> 
 
+#### 2026
+- Program committee member of the 32nd ACM Conference on Computer and Communications Security ([CCS 2025](https://www.sigsac.org/ccs/CCS2025/)) -- Privacy and Anonymity track
+
 #### 2025
 - Program committee member of the 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/cfp25.php))
 
