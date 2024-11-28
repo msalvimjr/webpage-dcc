@@ -25,7 +25,7 @@ header:
 
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)
 
-- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(Atualizado em 2024-Nov-04)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/ILC-2024-2%20-%20Cronograma.pdf)
+- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas <span style="color:red">(Atualizado em 2024-Nov-27)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/ILC-2024-2%20-%20Cronograma.pdf)
 
 <!-- - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
