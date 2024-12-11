@@ -44,7 +44,7 @@ header:
 | Aula 1.4 - Os Fundamentos: Métodos de Demonstração | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula1.4_MetodosDemonstracao%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista1.4_MetodosDemonstracao%5bquestoes%5d.pdf) |
 | Aula 2.1 - Estruturas Básicas: Conjuntos, Funções, Sequências, e Somatórios | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula2.1_ConjuntosFuncoesSequenciasSomatorios%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista2.1_Conjuntos%5bquestoes%5d.pdf) |
 | Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula2.2_CardinalidadeEnumerabilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista2.2_FuncoesSequenciasCardinalidade%5bquestoes%5d.pdf)] |
-| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [---] | [---] |
+| Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.1_InducaoFracaForte%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista3.1_InducaoFracaForte-BoaOrdenacao%5bquestoes%5d.pdf)] |
 | Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [---] | [---] |
 | Aula 4 - Lógica Booleana | [---] | [---] |
 
