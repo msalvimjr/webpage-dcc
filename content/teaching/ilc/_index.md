@@ -46,7 +46,7 @@ header:
 | Aula 2.2 - Estruturas Básicas: Cardinalidade e Enumerabilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula2.2_CardinalidadeEnumerabilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista2.2_FuncoesSequenciasCardinalidade%5bquestoes%5d.pdf)] |
 | Aula 3.1 - Indução e Recursão: Indução Matemática Fraca e Indução Matemática Forte | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.1_InducaoFracaForte%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista3.1_InducaoFracaForte-BoaOrdenacao%5bquestoes%5d.pdf)] |
 | Aula 3.2 - Indução e Recursão: Definições Recursivas e Indução Estrutural, Algoritmos Recursivos | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula3.2_DefinicoesRecursivasInducaoEstruturalAlgoritmosRecursivos%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista3.2_DefRecursivasIndEstruturalAlgRecursivos%5bquestoes%5d.pdf)] |
-| Aula 4 - Lógica Booleana | [---] | [---] |
+| Aula 4 - Álgebra Booleana | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Aula4_AlgebraBooleana%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ilc/Lista4_AlgebraBooleana%5bquestoes%5d.pdf)] |
 
 ####  Link para vídeos das aulas no YouTube 
 
