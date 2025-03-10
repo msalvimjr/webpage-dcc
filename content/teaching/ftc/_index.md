@@ -44,7 +44,7 @@ header:
 | 2 - Linguagens Livres-do-Contexto | [---] | [---] | 
 | 3 - A Tese de Church-Turing e Máquinas de Turing | [---] | [---]
 | 4 - Decidibilidade | [---] | [---] | 
-| 5 - Redutibilidade | [---] | [---] |
+| 5 - Redutibilidade | [---] | [---] | 
 
 ####  Link para vídeos das aulas no YouTube
  
