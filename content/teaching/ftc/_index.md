@@ -36,7 +36,7 @@ header:
 | Conteúdo | Slides de aula | Listas de exercícios |
 | --- | :---: | :---: | 
 | 0.0 - Introdução | [---] | [---] | 
-| 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [---] | [---] | 
+| 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [---] | [---] |  
 | 0.2 - Linguagens Formais e Problemas de Decisão | [---] | [---] | 
 | 1.1 - Autômatos Finitos e Não-determinismo | [---] | [---] | 
 | 1.2 - Expressões Regulares | [---] | [---] | 
