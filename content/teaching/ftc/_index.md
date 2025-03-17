@@ -36,7 +36,7 @@ header:
 | Conteúdo | Slides de aula | Listas de exercícios |
 | --- | :---: | :---: | 
 | 0.0 - Introdução | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_Introducao%5bstill%5d.pdf) | [---] | 
-| 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [---] | [---] | 
+| 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.1_TecnicasDemonstracao-Enumerabilidade%5bquestoes%5d.pdf) | 
 | 0.2 - Linguagens Formais e Problemas de Decisão | [---] | [---] | 
 | 1.1 - Autômatos Finitos e Não-determinismo | [---] | [---] | 
 | 1.2 - Expressões Regulares | [---] | [---] | 
