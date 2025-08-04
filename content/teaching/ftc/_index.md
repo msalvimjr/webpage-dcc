@@ -21,10 +21,10 @@ header:
 
 - **Local e hora das aulas:** Segundas e quartas, 14:55-16:35, em sala a ser definida.
 
-- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [---]
+- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)]
 
-- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: [---] 
-<!-- <span style="color:red">(a ser divulgado)</span>: [---] -->
+- **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: 
+<span style="color:red">(atualizado em 2025-Ago-04)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2025-2%20-%20Cronograma.pdf)] 
 
 <!-- - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
