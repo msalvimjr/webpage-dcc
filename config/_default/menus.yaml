@@ -33,7 +33,7 @@ main:
     identifier: teaching
   #  url: 'teaching'
     weight: 50
-  - name: DCC 129 - FTC (2025/1)
+  - name: DCC 129 - FTC (2025/2)
     identifier: ftc
     url: 'teaching/ftc'
     parent: teaching
