@@ -38,7 +38,7 @@ header:
 | --- | :---: | :---: | 
 | 0.0 - Introdução | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_Introducao%5bstill%5d.pdf)] | [---] | 
 | 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.1_TecnicasDemonstracao-Enumerabilidade%5bquestoes%5d.pdf)] | 
-| 0.2 - Linguagens Formais e Problemas de Decisão | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf)] | [[https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.2_LingFormais-PDs%5bquestoes%5d.pdf](pdf)] | 
+| 0.2 - Linguagens Formais e Problemas de Decisão | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.2_LingFormais-PDs%5bquestoes%5d.pdf)] | 
 | 1.1 - Autômatos Finitos e Não-determinismo | [---] | [---] | 
 | 1.2 - Expressões Regulares | [---] | [---] | 
 | 1.3 - Linguagens Não-regulares | [---] | [---] | 
