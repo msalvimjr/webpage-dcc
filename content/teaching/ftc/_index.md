@@ -40,7 +40,7 @@ header:
 | 0.1 - Terminologia, Técnicas de Demonstração, Enumerabilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.1_TecnicasDemonstracao-Enumerabilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.1_TecnicasDemonstracao-Enumerabilidade%5bquestoes%5d.pdf)] | 
 | 0.2 - Linguagens Formais e Problemas de Decisão | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.2_LingFormais-PDs%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista0.2_LingFormais-PDs%5bquestoes%5d.pdf)] | 
 | 1.1 - Autômatos Finitos e Não-determinismo | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.1_AFDs-AFNs%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.1_AFDs-AFNs%5bquestoes%5d.pdf)] | 
-| 1.2 - Expressões Regulares | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.2_ExpressoesRegulares%5bstill%5d.pdf)] | [[]pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.2_ExpressoesRegulares%5bquestoes%5d.pdf) | 
+| 1.2 - Expressões Regulares | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.2_ExpressoesRegulares%5bstill%5d.pdf)] | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.2_ExpressoesRegulares%5bquestoes%5d.pdf) | 
 | 1.3 - Linguagens Não-regulares | [---] | [---] | 
 | 2 - Linguagens Livres-do-Contexto | [---] | [---] | 
 | 3 - A Tese de Church-Turing e Máquinas de Turing | [---] | [---] | 
