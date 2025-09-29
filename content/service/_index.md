@@ -17,9 +17,14 @@ header:
 
 <div style="text-align: justify"> 
 
+#### 2026
+- Program committee member of the 39th IEEE Computer Security Foundations Symposium ([CSF 2026](https://csf2026.ieee-security.org/))
+- Program committee member of the 24th Privacy Enhancing Technologies Symposium ([PETS 2026](https://petsymposium.org/cfp26.php))
+
 #### 2025
 - Program committee member of the 32nd ACM Conference on Computer and Communications Security ([CCS 2025](https://www.sigsac.org/ccs/CCS2025/)) -- Privacy and Anonymity track
 - Program committee member of the 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/cfp25.php))
+- Program committee member of the XXIV Brazilian Symposium on Information and Computational Systems Security ([SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/))
 - Jury member of the [9th CNIL-Inria Privacy Award]()
 
 #### 2024

@@ -32,6 +32,7 @@ Feel free to [contact me](../#contact) about opportunities and to discuss topics
 
 #### Current M.Sc. Students
 - Igor Wallace dos Santos Lemes
+- Artur Gaspar da Silva
 
 ---
 
