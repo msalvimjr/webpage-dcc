@@ -43,7 +43,7 @@ header:
 | 1.2 - Expressões Regulares | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.2_ExpressoesRegulares%5bstill%5d.pdf)] | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.2_ExpressoesRegulares%5bquestoes%5d.pdf) | 
 | 1.3 - Linguagens Não-regulares | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.3_LingNaoRegulares%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.3_LingNaoRegulares%5bquestoes%5d.pdf)] | 
 | 2 - Linguagens Livres-do-Contexto | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula2_LingLivresContexto%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista2_LingLivresContexto%5bquestoes%5d.pdf)] | 
-| 3 - A Tese de Church-Turing e Máquinas de Turing | [---] | [---] | 
+| 3 - A Tese de Church-Turing e Máquinas de Turing | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula3_TeseChurchTuring-MTs%5bstill%5d.pdf)] | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista3_TeseChurchTuring-MTs%5bquestoes%5d.pdf) | 
 | 4 - Decidibilidade | [---] | [---] | 
 | 5 - Redutibilidade | [---] | [---] | 
 
