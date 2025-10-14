@@ -17,7 +17,7 @@ name_pronunciation:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor (Tenured)
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ organizations:
     url: https://www.ufmg.br
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mário S. Alvim is an assistant professor at the [Department of Computer Science (DCC)](https://www.dcc.ufmg.br) of [Universidade Federal de Minas Gerais (UFMG)](https://www.ufmg.br), in [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), Brazil.
+bio: Mário S. Alvim is an associate professor at the [Department of Computer Science (DCC)](https://www.dcc.ufmg.br) of [Universidade Federal de Minas Gerais (UFMG)](https://www.ufmg.br), in [Belo Horizonte](https://en.wikipedia.org/wiki/Belo_Horizonte), Brazil.
 
 # Interests to show in About widget
 interests:
