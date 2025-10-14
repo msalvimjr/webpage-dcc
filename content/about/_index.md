@@ -17,7 +17,7 @@ header:
 
 <div style="text-align: justify"> 
 
-I have been an assistant professor at the [Department of Computer Science (DCC)](http://www.dcc.ufmg.br/) of the [Federal University of Minas Gerais (UFMG)](http://www.ufmg.br) since September 2013 (tenured in 2016). DCC is one of the three CS departments in the country [ranked](http://trienal.capes.gov.br/?page_id=100) as a center of excellence by the Brazilian Government.
+I have been a professor at the [Department of Computer Science (DCC)](http://www.dcc.ufmg.br/) of the [Federal University of Minas Gerais (UFMG)](http://www.ufmg.br) since September 2013 (tenured in 2016). DCC is one of the three CS departments in the country [ranked](http://trienal.capes.gov.br/?page_id=100) as a center of excellence by the Brazilian Government.
 <!-- {style="text-align: justify;"} -->
 
 For the whole year of 2023, I was a visiting scholar/engineer at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre) to collaborate with the team of [Prof. Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) on formal methods for responsible computing. I was a visiting professor for 5 weeks in 2019 at the [School of Computing](https://researchers.mq.edu.au/en/organisations/school-of-computing) of [Macquarie University](https://researchers.mq.edu.au/en/) to collaborate with the team of [Prof. Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) on the same topics.
