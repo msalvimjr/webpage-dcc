@@ -27,10 +27,8 @@ header:
 <span style="color:red">(atualizado em 2025-Ago-04)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2025-2%20-%20Cronograma.pdf)] 
 
 <span style="color:red">**Seminários:**</span>
-
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
-    
-    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/2025-2%20-%20Grupos%20_T%c3%b3picos%20p_%20Semin%c3%a1rio%20FTC%20-%20Turma%20TN%20-%20Grupos%20e%20T%c3%b3picos.pdf)
+    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios-grupos-topicos.pdf)
 
 - **FAQ:** Algumas dúvidas comuns sobre meus métodos de ensino e de avaliação estão [respondidas aqui](../../faqs/teaching-grading/).
 
