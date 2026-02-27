@@ -19,10 +19,10 @@ header:
 
 #### Informações gerais
 
-- **Local e hora das aulas:** <!-- Segundas e quartas, 14:55-16:35, em sala a ser definida. -->
+- **Local e hora das aulas:** <!-- Segundas e quartas, 14:55--16:35, em sala a ser definida. -->
 
-    - <span>Turma TN:</span> Segundas e quartas, 14:55-16:35, em sala a ser definida.
-    - <span>Turma TZ:</span> Segundas e quartas, 17:00-18:40, em sala a ser definida.
+    - <span>Turma TN:</span> Segundas e quartas, 14:55--16:35, em sala a ser definida.
+    - <span>Turma TZ:</span> Segundas e quartas, 17:00--18:40, em sala a ser definida.
     
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[---]()]
 
