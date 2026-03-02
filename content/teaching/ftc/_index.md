@@ -24,7 +24,7 @@ header:
     - <span>Turma TN:</span> Segundas e quartas, 14:55--16:35, em sala a ser definida.
     - <span>Turma TZ:</span> Segundas e quartas, 17:00--18:40, em sala a ser definida.
     
-- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-1%20-%20Cronograma.pdf)]
+- **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)]
 
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: 
 <span style="color:red">(atualizado em 2026-Fev-27)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-1%20-%20Cronograma.pdf)] 
