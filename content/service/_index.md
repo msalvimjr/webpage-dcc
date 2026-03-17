@@ -18,6 +18,7 @@ header:
 <div style="text-align: justify"> 
 
 #### 2026
+- Program committee member of the 33rd ACM Conference on Computer and Communications Security ([CCS 2026](https://www.sigsac.org/ccs/CCS2026/)) -- Privacy and Anonymity track
 - Program committee member of the 39th IEEE Computer Security Foundations Symposium ([CSF 2026](https://csf2026.ieee-security.org/))
 - Program committee member of the 24th Privacy Enhancing Technologies Symposium ([PETS 2026](https://petsymposium.org/cfp26.php))
 
