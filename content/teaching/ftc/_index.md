@@ -27,7 +27,7 @@ header:
 - **Informações gerais sobre o curso:** Tópicos, bibliografia, e métodos de avaliação (*"syllabus"*): [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_InformacoesGerais%5bstill%5d.pdf)]
 
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: 
-<span style="color:red">(atualizado em 2026-Fev-27)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-1%20-%20Cronograma.pdf)] 
+<span style="color:red">(atualizado em 2026-Abril-22)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-1%20-%20Cronograma.pdf)] 
 
 <!--
 - <span style="color:red">**Seminários:**</span>
