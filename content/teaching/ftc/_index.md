@@ -29,11 +29,9 @@ header:
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: 
 <span style="color:red">(atualizado em 2026-Abril-22)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-1%20-%20Cronograma.pdf)] 
 
-<!--
 - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
-    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios-grupos-topicos.pdf)
--->
+    <!-- - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios-grupos-topicos.pdf) -->
 
 - **FAQ:** Algumas dúvidas comuns sobre meus métodos de ensino e de avaliação estão [respondidas aqui](../../faqs/teaching-grading/).
 
@@ -81,8 +79,8 @@ header:
 | 1.3 - Linguagens Não-regulares | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula1.3_LingNaoRegulares%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista1.3_LingNaoRegulares%5bquestoes%5d.pdf)] | 
 | 2 - Linguagens Livres-do-Contexto | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula2_LingLivresContexto%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista2_LingLivresContexto%5bquestoes%5d.pdf)] | 
 | 3 - A Tese de Church-Turing e Máquinas de Turing | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula3_TeseChurchTuring-MTs%5bstill%5d.pdf)] | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista3_TeseChurchTuring-MTs%5bquestoes%5d.pdf) | 
-| 4 - Decidibilidade | [[---]()] | [[---]()] | 
-| 5 - Redutibilidade | [[---]()] | [[---]()] | 
+| 4 - Decidibilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula4_Decidibilidade%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista4_Decidibilidade%5bquestoes%5d.pdf)] | 
+| 5 - Redutibilidade | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula5_Redutibilidade%5bstill%5d.pdf)] | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Lista5_Redutibilidade%5bquestoes%5d.pdf) |
 
 ####  Link para vídeos das aulas no YouTube
  
