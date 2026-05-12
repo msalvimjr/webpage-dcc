@@ -32,7 +32,7 @@ header:
 - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
     <!-- - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios-grupos-topicos.pdf) -->
-    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [TBA]()
+    - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [TBA]
 
 - **FAQ:** Algumas dúvidas comuns sobre meus métodos de ensino e de avaliação estão [respondidas aqui](../../faqs/teaching-grading/).
 
@@ -68,8 +68,6 @@ header:
 | 5 - Redutibilidade | [[---]()] | [[---]()] | 
 -->
 
-| Conteúdo | Slides de aula | Listas de exercícios |
-| --- | :---: | :---: | 
 | Conteúdo | Slides de aula | Listas de exercícios |
 | --- | :---: | :---: | 
 | 0.0 - Introdução | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/Aula0.0_Introducao%5bstill%5d.pdf)] | [---] | 
