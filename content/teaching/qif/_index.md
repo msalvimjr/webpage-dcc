@@ -1,5 +1,5 @@
 ---
-title: DCC 831/030/049 – Quantitative Information Flow (2022/2)
+title: DCC 831/030/049 – Quantitative Information Flow (2026/2)
 cms_exclude: true
 
 # View.
@@ -19,11 +19,11 @@ header:
 
 #### General Information
 
-- **Time and place:** Tuesdays and Thursdays, 2:55 pm - 4:35 pm, in room TBA.
+- **Time and place:** Mondays and Wednesdays, 2:55 pm - 4:35 pm, in room TBA.
 
-- **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)
+- **Syllabus:** Important information about the course, including textbook, grading, and program : [TBA]
 
-- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2022-11-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2022-2%20-%20Calendar.pdf)
+- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2022-11-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)
 
 <!-- - <span style="color:red">**Seminars:**</span>
     - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/seminar%5binstructions%5d.pdf)
@@ -33,6 +33,22 @@ header:
 
 #### Supporting Material
 
+| Unit | Slides | Problem sets |
+| --- | :---: | :---: | 
+| 00 - Discrete Probability (Supplemental material in Portuguese) | [[---]()] | [[---]()] |
+| 01 - Introduction to QIF | [[---]()] | [[---]()] |
+| 02 - Modeling secrets | [[---]()] | [[---]()] |
+| 03 - On g-vulnerability | [[---]()] | [[---]()] |
+| 04 - Channels | [[---]()] | [[---]()] |
+| 05 - Posterior vulnerability and leakage | [[---]()] | [[---]()] |
+| 06 - Robustness | [[---]()] | [[---]()] |
+| 07 - Capacity | [[---]()] | [[---]()] |
+| 08 - Composition of channels | [[---]()] | [[---]()] |
+| 09 - Refinement | [[---]()] | [[---]()] |
+| 10 - The Dalenius perspective | [[---]()] | [[---]()] |
+| 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
+
+<!--
 | Unit | Slides | Problem sets |
 | --- | :---: | :---: | 
 | 00 - Discrete Probability (Supplemental material in Portuguese) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-B_DiscreteProbability%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSet0_DiscreteProbability%5bquestions%5d.pdf) <span style="color:red"> (Optional) </span> |
@@ -48,6 +64,7 @@ header:
 | 10 - The Dalenius perspective | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture10_Chap10-TheDaleniusPerspective%5bstill%5d.pdf) | [Same as previous] |
 | 11 - Axiomatics | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture11_Chap11-Axiomatics%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetH_Chap11-18%5bquestions%5d.pdf) |
 | 12 - Applications: The Crowds protocol | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture12_Chap18-TheCrowdsProtocol%5bstill%5d.pdf) | [Same as previous] |
+-->
 
 ####  Link for lectures on YouTube
 
