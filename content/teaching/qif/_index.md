@@ -33,6 +33,7 @@ header:
 
 #### Supporting Material
 
+<!--
 | Unit | Slides | Problem sets |
 | --- | :---: | :---: | 
 | 00 - Discrete Probability (Supplemental material in Portuguese) | [[---]()] | [[---]()] |
@@ -47,6 +48,7 @@ header:
 | 09 - Refinement | [[---]()] | [[---]()] |
 | 10 - The Dalenius perspective | [[---]()] | [[---]()] |
 | 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
+-->
 
 <!--
 | Unit | Slides | Problem sets |
@@ -65,6 +67,21 @@ header:
 | 11 - Axiomatics | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture11_Chap11-Axiomatics%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetH_Chap11-18%5bquestions%5d.pdf) |
 | 12 - Applications: The Crowds protocol | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture12_Chap18-TheCrowdsProtocol%5bstill%5d.pdf) | [Same as previous] |
 -->
+
+| Unit | Slides | Problem sets |
+| --- | :---: | :---: | 
+| 00 - Discrete Probability (Supplemental material in Portuguese) | [[---]()] | [[---]()] |
+| 01 - Introduction to QIF | [[---]()] | [[---]()] |
+| 02 - Modeling secrets | [[---]()] | [[---]()] |
+| 03 - On g-vulnerability | [[---]()] | [[---]()] |
+| 04 - Channels | [[---]()] | [[---]()] |
+| 05 - Posterior vulnerability and leakage | [[---]()] | [[---]()] |
+| 06 - Robustness | [[---]()] | [[---]()] |
+| 07 - Capacity | [[---]()] | [[---]()] |
+| 08 - Composition of channels | [[---]()] | [[---]()] |
+| 09 - Refinement | [[---]()] | [[---]()] |
+| 10 - The Dalenius perspective | [[---]()] | [[---]()] |
+| 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
 
 ####  Link for lectures on YouTube
 
