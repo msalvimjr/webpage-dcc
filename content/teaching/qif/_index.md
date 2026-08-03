@@ -21,9 +21,9 @@ header:
 
 - **Time and place:** Mondays and Wednesdays, 2:55 pm - 4:35 pm, in room TBA.
 
-- **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)
+- **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)]
 
-- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2022-11-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)
+- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2022-11-17)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)]
 
 <!-- - <span style="color:red">**Seminars:**</span>
     - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/seminar%5binstructions%5d.pdf)
@@ -70,7 +70,7 @@ header:
 
 | Unit | Slides | Problem sets |
 | --- | :---: | :---: | 
-| 00 - Discrete Probability (Supplemental material in Portuguese) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-B_DiscreteProbability%5bstill%5d.pdf) | [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSet0_DiscreteProbability%5bquestions%5d.pdf) <span style="color:red"> (Optional) </span> |
+| 00 - Discrete Probability (Supplemental material in Portuguese) | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-B_DiscreteProbability%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSet0_DiscreteProbability%5bquestions%5d.pdf)] <span style="color:red"> (Optional) </span> |
 | 01 - Introduction to QIF | [[---]()] | [[---]()] |
 | 02 - Modeling secrets | [[---]()] | [[---]()] |
 | 03 - On g-vulnerability | [[---]()] | [[---]()] |
