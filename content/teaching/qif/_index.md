@@ -21,7 +21,7 @@ header:
 
 - **Time and place:** Mondays and Wednesdays, 2:55 pm - 4:35 pm, in room TBA.
 
-- **Syllabus:** Important information about the course, including textbook, grading, and program : [TBA]
+- **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)]
 
 - **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2022-11-17)</span>: [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)
 
