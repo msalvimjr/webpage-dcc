@@ -21,7 +21,7 @@ header:
 - Program committee member of the 33rd ACM Conference on Computer and Communications Security ([CCS 2026](https://www.sigsac.org/ccs/CCS2026/)) -- Privacy and Anonymity track
 - Program committee member of the 39th IEEE Computer Security Foundations Symposium ([CSF 2026](https://csf2026.ieee-security.org/))
 - Program committee member of the 24th Privacy Enhancing Technologies Symposium ([PETS 2026](https://petsymposium.org/cfp26.php))
-- Program committee member of the XXIV Brazilian Symposium on Information and Computational Systems Security ([SBSeg 2026](https://www.sbseg2026.uff.br/))
+- Program committee member of the XXIV Brazilian Symposium on Information and Computational Systems Security ([SBSeg 2026](https://www.sbseg2026.uff.br/)) 
 - Jury member of the [10th CNIL-Inria Privacy Award](https://www.cnil.fr/en/launch-10th-edition-cnil-inria-privacy-award)
 
 #### 2025
