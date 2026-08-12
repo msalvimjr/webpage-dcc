@@ -71,7 +71,7 @@ header:
 | Unit | Slides | Problem sets |
 | --- | :---: | :---: | 
 | 00 - Discrete Probability (Supplemental material in Portuguese) | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-B_DiscreteProbability%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSet0_DiscreteProbability%5bquestions%5d.pdf)] <span style="color:red"> (Optional) </span> |
-| 01 - Introduction to QIF | [[---]()] | [[---]()] |
+| 01 - Introduction to QIF | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture01_Chap01-Introduction%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetA_Chap01%5bquestions%5d.pdf)] |
 | 02 - Modeling secrets | [[---]()] | [[---]()] |
 | 03 - On g-vulnerability | [[---]()] | [[---]()] |
 | 04 - Channels | [[---]()] | [[---]()] |
