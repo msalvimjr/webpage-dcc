@@ -74,7 +74,6 @@ header:
 | 01 - Introduction to QIF | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture01_Chap01-Introduction%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetA_Chap01%5bquestions%5d.pdf)] |
 | 02 - Modeling secrets | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture02_Chap02-ModelingSecrets%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetB_Chap02-03%5bquestions%5d.pdf)] |
 | 03 - On g-vulnerability | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture03_Chap03-gVulnerability%5bstill%5d.pdf)] | [Same as previous] |
-| 04 - Channels | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture04_Chap04-Channels%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetC_Chap04%5bquestions%5d.pdf)] |
 | 04 - Channels | [[---]()] | [[---]()] |
 | 05 - Posterior vulnerability and leakage | [[---]()] | [[---]()] |
 | 06 - Robustness | [[---]()] | [[---]()] |
