@@ -72,7 +72,7 @@ header:
 | --- | :---: | :---: | 
 | 00 - Discrete Probability (Supplemental material in Portuguese) | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-B_DiscreteProbability%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSet0_DiscreteProbability%5bquestions%5d.pdf)] <span style="color:red"> (Optional) </span> |
 | 01 - Introduction to QIF | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture01_Chap01-Introduction%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetA_Chap01%5bquestions%5d.pdf)] |
-| 02 - Modeling secrets | [[---]()] | [[---]()] |
+| 02 - Modeling secrets | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture02_Chap02-ModelingSecrets%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetB_Chap02-03%5bquestions%5d.pdf)] |
 | 03 - On g-vulnerability | [[---]()] | [[---]()] |
 | 04 - Channels | [[---]()] | [[---]()] |
 | 05 - Posterior vulnerability and leakage | [[---]()] | [[---]()] |
