@@ -75,7 +75,7 @@ header:
 | 02 - Modeling secrets | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture02_Chap02-ModelingSecrets%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetB_Chap02-03%5bquestions%5d.pdf)] |
 | 03 - On g-vulnerability | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture03_Chap03-gVulnerability%5bstill%5d.pdf)] | [Same as previous] |
 | 04 - Channels | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture04_Chap04-Channels%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetC_Chap04%5bquestions%5d.pdf)] |
-| 05 - Posterior vulnerability and leakage | [[---]()] | [[---]()] |
+| 05 - Posterior vulnerability and leakage | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture05_Chap05-PosteriorVulnerabilityAndLeakage%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetD_Chap05%5bquestions%5d.pdf)] |
 | 06 - Robustness | [[---]()] | [[---]()] |
 | 07 - Capacity | [[---]()] | [[---]()] |
 | 08 - Composition of channels | [[---]()] | [[---]()] |
