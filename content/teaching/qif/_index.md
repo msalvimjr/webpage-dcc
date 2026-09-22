@@ -76,8 +76,8 @@ header:
 | 03 - On g-vulnerability | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture03_Chap03-gVulnerability%5bstill%5d.pdf)] | [Same as previous] |
 | 04 - Channels | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture04_Chap04-Channels%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetC_Chap04%5bquestions%5d.pdf)] |
 | 05 - Posterior vulnerability and leakage | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture05_Chap05-PosteriorVulnerabilityAndLeakage%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetD_Chap05%5bquestions%5d.pdf)] |
-| 06 - Robustness | [[---]()] | [[---]()] |
-| 07 - Capacity | [[---]()] | [[---]()] |
+| 06 - Robustness | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture06_Chap06-Robustness%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetE_Chap06-07%5bquestions%5d.pdf)] |
+| 07 - Capacity | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture07_Chap07-Capacity%5bstill%5d.pdf)] | [Same as previous] |
 | 08 - Composition of channels | [[---]()] | [[---]()] |
 | 09 - Refinement | [[---]()] | [[---]()] |
 | 10 - The Dalenius perspective | [[---]()] | [[---]()] |
