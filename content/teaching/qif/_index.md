@@ -23,7 +23,7 @@ header:
 
 - **Syllabus:** Important information about the course, including textbook, grading, and program : [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture00-A_Syllabus%5bstill%5d.pdf)]
 
-- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2026-07-31)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)]
+- **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2026-09-28)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)]
 
 <!-- - <span style="color:red">**Seminars:**</span>
     - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/seminar%5binstructions%5d.pdf)
