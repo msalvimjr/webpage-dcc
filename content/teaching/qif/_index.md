@@ -48,6 +48,7 @@ header:
 | 08 - Composition of channels | [[---]()] | [[---]()] |
 | 09 - Refinement | [[---]()] | [[---]()] |
 | 10 - The Dalenius perspective | [[---]()] | [[---]()] |
+| 11 - Axiomatics | [[---]()] | [[---]()] |
 | 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
 -->
 
@@ -80,7 +81,9 @@ header:
 | 06 - Robustness | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture06_Chap06-Robustness%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetE_Chap06-07%5bquestions%5d.pdf)] |
 | 07 - Capacity | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture07_Chap07-Capacity%5bstill%5d.pdf)] | [Same as previous] |
 | 08 - Composition of channels | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture08_Chap08-CompositionOfChannels%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetF_Chap08%5bquestions%5d.pdf)] || 09 - Refinement | [[---]()] | [[---]()] |
-| 10 - The Dalenius perspective | [[---]()] | [[---]()] |
+| 09 - Refinement | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture09_Chap09-Refinement%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetG_Chap09-10%5bquestions%5d.pdf)] |
+| 10 - The Dalenius perspective | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture10_Chap10-TheDaleniusPerspective%5bstill%5d.pdf)] | [Same as previous] |
+| 11 - Axiomatics | [[---]()] | [[---]()] |
 | 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
 
 ####  Link for lectures on YouTube
