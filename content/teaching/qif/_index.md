@@ -25,8 +25,9 @@ header:
 
 - **Calendar of activities:** Plan of lectures, due dates for problem sets and exams <span style="color:red">(last updated on 2026-09-28)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/QIF-2026-2%20-%20Calendar.pdf)]
 
-<!-- - <span style="color:red">**Seminars:**</span>
+- <span style="color:red">**Seminars:**</span>
     - <span style="color:red">Instructions:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/seminar%5binstructions%5d.pdf)
+    <!-- 
     - <span style="color:red">Groups, topics, and presentation dates:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/seminar%5bgroups-and-dates%5d.pdf) -->
 
 - **FAQ:** Answers to frequently asked questions about my didactic principles can be found [here](../../faqs/teaching-grading/).
