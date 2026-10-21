@@ -30,9 +30,9 @@ header:
 - **Calendário de atividades:** Aulas, entregas de exercícios e realização de provas: 
 <span style="color:red">(atualizado em 2026-Outubro-07)</span>: [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/FTC-2026-2%20-%20Cronograma.pdf)] 
 
-<!--
 - <span style="color:red">**Seminários:**</span>
     - <span style="color:red">Instruções:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminario%5binstrucoes%5d.pdf)
+<!--
     - <span style="color:red">Grupos, tópicos e datas de apresentação:</span> [[pdf]](https://homepages.dcc.ufmg.br/~msalvim/courses/ftc/seminarios-grupos-topicos.pdf)
 -->
 
