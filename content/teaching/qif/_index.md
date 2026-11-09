@@ -82,8 +82,8 @@ header:
 | 08 - Composition of channels | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture08_Chap08-CompositionOfChannels%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetF_Chap08%5bquestions%5d.pdf)] || 09 - Refinement | [[---]()] | [[---]()] |
 | 09 - Refinement | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture09_Chap09-Refinement%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetG_Chap09-10%5bquestions%5d.pdf)] |
 | 10 - The Dalenius perspective | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture10_Chap10-TheDaleniusPerspective%5bstill%5d.pdf)] | [Same as previous] |
-| 11 - Axiomatics | [[---]()] | [[---]()] |
-| 12 - Applications: The Crowds protocol | [[---]()] | [[---]()] |
+| 11 - Axiomatics | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture11_Chap11-Axiomatics%5bstill%5d.pdf)] | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/ProblemSetH_Chap11-18%5bquestions%5d.pdf)] |
+| 12 - Applications: The Crowds protocol | [[pdf](https://homepages.dcc.ufmg.br/~msalvim/courses/qif/Lecture12_Chap18-TheCrowdsProtocol%5bstill%5d.pdf)] | [Same as previous] |
 
 ####  Link for lectures on YouTube
 
